@@ -6,7 +6,7 @@ description: >-
   Jeff Bezos là tỉ phú giàu nhất thế giới ở thời điểm hiện tại, phần lớn tài sản
   của Jeff là từ việc xây dựng Amazon trở thành công ty thương mại điện tử lớn
   nhất thế giới.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/0_itjaivlvdj3w4k0i.jpeg
 tags:
   - amazon
