@@ -8,12 +8,7 @@ description: >-
   chi phí trực tiếp và gián tiếp, bao gồm: chi phí đăng tuyển, chi phí tiền
   lương thử việc, chi phí đào tạo, thời gian, nguồn lực phỏng vấn, đánh giá ứng
   viên v.v… Thế nhưng, làm sao thu hút được ứng viên phù hợp và đáp ứng được yêu
-  cầu năng lực lại không hề đơn giản. Khi một ứng viên tiềm năng quan tâm tới
-  Startup, họ sẽ tìm hiểu kỹ về công ty, bao gồm những giá trị văn hóa, đội ngũ
-  nhân viên hiện tại, những hoạt động nội bộ cũng như những quyền lợi và phúc
-  lợi công ty mang lại. Nếu startup không có 1 website tuyển dụng đủ tốt sẽ rất
-  khó thu hút được những tài năng phù hợp và từ đó sẽ tốn rất nhiều chi phí để
-  đăng tuyển.
+  cầu năng lực lại không hề đơn giản. 
 featuredpost: true
 featuredimage: /img/1_dl9nrnp5qy_ybstef43nhw.png
 tags:
@@ -21,8 +16,6 @@ tags:
   - recruitment
   - talent
 ---
-Trong quá trình phát triển của mỗi công ty, nguồn nhân lực là yếu tố then chốt quyết định sự thành bại. Mặt khác, tuyển dụng hao tổn doanh nghiệp rất nhiều chi phí trực tiếp và gián tiếp, bao gồm: chi phí đăng tuyển, chi phí tiền lương thử việc, chi phí đào tạo, thời gian, nguồn lực phỏng vấn, đánh giá ứng viên v.v… Thế nhưng, làm sao thu hút được ứng viên phù hợp và đáp ứng được yêu cầu năng lực lại không hề đơn giản. 
-
 Khi một ứng viên tiềm năng quan tâm tới Startup, họ sẽ tìm hiểu kỹ về công ty, bao gồm những giá trị văn hóa, đội ngũ nhân viên hiện tại, những hoạt động nội bộ cũng như những quyền lợi và phúc lợi công ty mang lại. Nếu startup không có 1 website tuyển dụng đủ tốt sẽ rất khó thu hút được những tài năng phù hợp và từ đó sẽ tốn rất nhiều chi phí để đăng tuyển.
 
 ## Một website tuyển dụng cần có những phần nào?
