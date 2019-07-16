@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Blog tuyển dụng
+title: Blog Tuyển dụng 4.0
 image: /img/hunters-race-mybhn8kaaec-unsplash.jpg
-heading: 'Bí kíp tuyển dụng & giữ chân nhân tài '
+heading: Bí kíp tuyển dụng & giữ chân nhân tài trong thời đại mới
 subheading: Blog chia sẻ
 mainpitch:
   title: Why Kaldi
