@@ -16,6 +16,8 @@ tags:
   - recruitment
   - talent
 ---
+![Cổng tuyển dụng của Microsoft](/img/screen-shot-2019-07-16-at-9.39.04-pm.png "Cổng tuyển dụng của Microsoft")
+
 Khi một ứng viên tiềm năng quan tâm tới Startup, họ sẽ tìm hiểu kỹ về công ty, bao gồm những giá trị văn hóa, đội ngũ nhân viên hiện tại, những hoạt động nội bộ cũng như những quyền lợi và phúc lợi công ty mang lại. Nếu startup không có 1 website tuyển dụng đủ tốt sẽ rất khó thu hút được những tài năng phù hợp và từ đó sẽ tốn rất nhiều chi phí để đăng tuyển.
 
 ## Một website tuyển dụng cần có những phần nào?
