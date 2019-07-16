@@ -9,7 +9,7 @@ description: >-
   lương thử việc, chi phí đào tạo, thời gian, nguồn lực phỏng vấn, đánh giá ứng
   viên v.v… Thế nhưng, làm sao thu hút được ứng viên phù hợp và đáp ứng được yêu
   cầu năng lực lại không hề đơn giản. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/1_dl9nrnp5qy_ybstef43nhw.png
 tags:
   - startup
