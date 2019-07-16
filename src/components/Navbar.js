@@ -61,6 +61,9 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
 
+              <a className="navbar-item" href="/">
+                Trang chủ
+              </a>
               <a className="navbar-item" href="https://www.cloudjetpotential.com/">
                 Cloudjet Potential
               </a>
