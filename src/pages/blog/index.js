@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/room-ifiht7bf-cs-unsplash.jpg')`,
           }}
         >
           <h1
@@ -22,7 +22,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Những bài viết mới nhất
           </h1>
         </div>
         <section className="section">
