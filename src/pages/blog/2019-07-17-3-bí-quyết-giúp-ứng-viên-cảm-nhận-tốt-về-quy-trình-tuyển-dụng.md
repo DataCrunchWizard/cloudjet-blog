@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 3 bí quyết giúp ứng viên cảm nhận tốt về quy trình tuyển dụng
-date: 2019-07-18T01:00:00.000Z
+date: 2019-07-17T01:00:00.000Z
 description: >-
   Hầu như mọi người đều biết rằng các ứng viên trong quá trình tìm việc luôn
   phải nỗ lực hết sức nhằm để lại ấn tượng đẹp trong mắt nhà tuyển dụng, hòng
