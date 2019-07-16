@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: 'Bí kíp tuyển dụng & giữ chân nhân tài '
+title: Blog tuyển dụng
 image: /img/hunters-race-mybhn8kaaec-unsplash.jpg
 heading: 'Bí kíp tuyển dụng & giữ chân nhân tài '
-subheading: Blog
+subheading: Blog chia sẻ
 mainpitch:
   title: Why Kaldi
   description: >
@@ -12,10 +12,8 @@ mainpitch:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Nơi chia sẻ những bí kíp tuyển dụng & giữ chân nhân tài dành cho cộng đồng
+  nhân sự. 
 intro:
   blurbs: []
   heading: What we offer
