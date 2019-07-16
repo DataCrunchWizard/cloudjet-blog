@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 'Bí kíp tuyển dụng & giữ chân nhân tài '
 image: /img/hunters-race-mybhn8kaaec-unsplash.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 'Bí kíp tuyển dụng & giữ chân nhân tài '
+subheading: Blog
 mainpitch:
   title: Why Kaldi
   description: >
