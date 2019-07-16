@@ -12,7 +12,10 @@ tags:
   - amazon
   - interview
   - câu hỏi phỏng vấn
+  - Jeff Bezos
 ---
+![Jeff Bezos](/img/0_itjaivlvdj3w4k0i.jpeg "Jeff Bezos")
+
 Một trong những “bí thuật” giúp Amazon từ 1 cửa hàng sách online trong gara trở thành doanh nghiệp hàng đầu thế giới với hơn nữa triệu nhân viên đó là cách mà Jeff Bezos đã đưa ra một số nguyên tắc tuyển dụng từ những ngày đầu, mà đến hiện tại vẫn tiếp tục là một trong những nét văn hóa của Amazon. Trong lá [thư gửi cổ đông vào năm 1998](https://t.co/b6A2QHgXeO), ông ấy đã đưa ra 3 câu hỏi.
 
 ![3 câu hỏi tuyển dụng của Jeff Bezos](/img/0_snbzi_zuu65_sro2.jpeg "3 câu hỏi tuyển dụng của Jeff Bezos")
@@ -31,11 +34,7 @@ Chúng ta thường học một số điều hay từ những người chúng ta
 
 Đã hơn 20 năm từ lúc Bezos viết về những điều này, tuy nhiên với sự thành công vĩ đại của Amazon, những lời khuyên này vẫn tiếp tục là những điều khiến chúng ta phải cân nhắc khi tuyển dụng. Khi bạn mong muốn phát triển mở rộng công ty của mình, điều đầu tiên chắc chắc cần làm đó là thể hiện được văn hóa công ty của mình trong xuyên suốt quá trình tuyển dụng. Đó là cách cực kỳ hiệu quả để bạn có thể thu hút và tìm được những con người phù hợp với tổ chức của mình.
 
-
-
 ......
-
-
 
 ## Giới thiệu về [Cloudjet Potential ](https://www.cloudjetpotential.com/?cpid=startup)— Công nghệ hóa tuyển dụng
 
