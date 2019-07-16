@@ -40,12 +40,13 @@ Cuối cùng, tuyển dụng là một công việc phức tạp, gồm nhiều 
 
 ![Một website tuyển dụng được xây dựng trên nền tảng Cloudjet Potential](/img/screen-shot-2019-07-16-at-9.12.32-pm.png "Một website tuyển dụng được xây dựng trên nền tảng Cloudjet Potential")
 
-Link tham khảo: <http://tiki.cloudjetpotential.com/>
+Một số cổng tuyển dụng sử dụng Cloudjet Potential tham khảo:
 
-Bạn có thể đăng ký 1 website tuyển dụng miễn phí dành cho doanh nghiệp. Để tham gia, của mình bằng cách gửi tin nhắn cho chúng tôi tại đây:
+* <http://tiki.cloudjetpotential.com/>
+* <http://mieu.cloudjetpotential.com/>
 
-Facebook: <https://m.me/cloudjetsolutions>
+**Bạn có thể đăng ký 1 website tuyển dụng miễn phí dành cho doanh nghiệp (miễn phí 1 tài khoản). Để tham gia, của mình bằng cách gửi tin nhắn cho chúng tôi tại đây:**
 
-Zalo: <https://zalo.me/279948084336990985>
-
-Website: <http://www.cloudjetpotential.com/>
+* Facebook: <https://m.me/cloudjetsolutions>
+* Zalo: <https://zalo.me/279948084336990985>
+* Website: <http://www.cloudjetpotential.com/>
