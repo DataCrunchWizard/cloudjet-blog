@@ -5,7 +5,7 @@ image: /img/hunters-race-mybhn8kaaec-unsplash.jpg
 heading: Bí kíp tuyển dụng & giữ chân nhân tài trong thời đại 4.0
 subheading: Blog chia sẻ
 mainpitch:
-  title: Why Kaldi
+  title: '  '
   description: ' '
 description: >-
   Nơi chia sẻ những bí kíp tuyển dụng & giữ chân nhân tài dành cho cộng đồng
