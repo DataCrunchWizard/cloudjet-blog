@@ -21,11 +21,15 @@ tags:
 
 ![Những tin tuyển dụng trả phí phần lớn đến từ các nhà tuyển dụng bất động sản - Cloujet Potential](/img/capture.png "Những tin tuyển dụng trả phí phần lớn đến từ các nhà tuyển dụng bất động sản")
 
+_Những tin tuyển dụng trả phí phần lớn đến từ các nhà tuyển dụng bất động sản_
+
 Vì mệt mỏi, chịu nhiều áp lực từ cấp trên cộng với người làm công tác tuyển dụng không được xem trọng như nhân viên sales và sự “chèo kéo” khốc liệt từ các đối thủ trong ngành nên quá trình tuyển dụng không được chú trọng và gần như chỉ cần ứng viên gửi CV, họ sẽ được tuyển dụng ngay lập tức. 
 
 Sau khi được đào tạo, nhân viên kinh doanh sẽ được cử ra ngoài chiến đấu với thị trường và khách hàng. Do không phù hợp với ngành nghề, với sản phẩm và với phân khúc khách hàng, nhiều nhân viên sẽ nhảy sang ngành nghề hoặc công ty khác, và để đảm bảo số lượng, các chuyên viên tuyển dụng lại phải tác nghiệp trên những trang website tuyển dụng. Thế là quá trình tuyển dụng gần như diễn ra xuyên suốt và không có hồi kết.
 
 ![Chuyên viên tuyển dụng thường chịu nhiều áp lực nhưng vẫn không tuyển đủ chỉ tiêu - Cloudjet Potential](/img/5d00d3160d8d5.jpg "Chuyên viên tuyển dụng thường chịu nhiều áp lực nhưng vẫn không tuyển đủ chỉ tiêu")
+
+_Chuyên viên tuyển dụng thường chịu nhiều áp lực nhưng vẫn không tuyển đủ chỉ tiêu_
 
 Mặc dù việc tuyển dụng nhân viên kinh doanh là vô cùng quan trọng nhưng chúng vẫn chưa được coi trọng và đầu tư đúng đắn. Bằng chứng là các công ty khi có nhu cầu chỉ biết đăng tin trên các website tuyển dụng mà không hề xây dựng riêng cho mình một trang web chỉn chu, thể hiện năng lực, phúc lợi cùng nhiều dự án tiềm năng để thu hút được những nhân viên kinh doanh tài năng đến với doanh nghiệp.
 
@@ -40,6 +44,8 @@ Vấn đề này sẽ được giải quyết một cách nhanh chóng và tri�
 Công nghệ ở đây là một hệ thống tuyển dụng giúp doanh nghiệp thu hút được nhiều ứng viên tiềm năng, thể hiện được năng lực và uy tín của doanh nghiệp, đồng thời giúp quá trình tuyển dụng trở nên dễ dàng, thoải mái hơn. Bên cạnh đó, công nghệ mới phải giúp chuyên viên tuyển dụng quản lý được khối lượng hồ sơ khổng lồ, đánh giá chất lượng của những nguồn đăng tin và đặc biệt là tự tạo một trang website riêng để “show” toàn bộ thông tin của công ty không những thể hiện sự chuyên nghiệp mà còn xây dựng sự thấu hiểu với ứng viên, giúp gắn bó lâu dài với nhân viên kinh doanh tài năng.
 
 ![Công nghệ là giải pháp hóa giải khó khăn - Cloudjet Potential](/img/brunette-computer-computer-keyboard-2084974.jpg "Công nghệ là giải pháp hóa giải khó khăn")
+
+_Công nghệ là giải pháp hóa giải khó khăn_
 
 ## Công nghệ hóa tuyển dụng
 
