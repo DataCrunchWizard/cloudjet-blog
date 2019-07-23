@@ -10,8 +10,8 @@ description: >-
 
 
   Để giải quyết vấn đề này, Cloudjet Potential cung cấp 1 dịch vụ hoàn toàn miễn
-  phí đó là xây dựng 1 cổng website tuyển dụng dành cho các doanh nghiệp vừa và
-  nhỏ SME.
+  phí: xây dựng 1 cổng website tuyển dụng dành cho các doanh nghiệp vừa và nhỏ
+  (SME)
 featuredpost: false
 featuredimage: /img/carlos-muza-hpjsku2uysu-unsplash.jpg
 tags:
@@ -52,4 +52,4 @@ Trong trường hợp doanh nghiệp mong muốn được hỗ trợ hoặc nân
 
 * Facebook: <https://www.facebook.com/cloudjetsolutions>
 * Email: hello@cloudjetsolutions.com 
-* Phone: (028) 66 808 662
+* Phone: **(028) 66 808 662**
