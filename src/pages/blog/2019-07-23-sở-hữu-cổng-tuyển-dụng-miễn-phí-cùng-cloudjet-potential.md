@@ -28,7 +28,7 @@ Cloudjet Potential không những giúp doanh nghiệp sở hữu một cổng t
 
 
 
-Một số website tuyển dụng mẫu được xây dựng trên nền tảng Cloudjet Potential
+Một số website tuyển dụng được xây dựng trên nền tảng Cloudjet Potential:
 
 * <https://tiki.cloudjetpotential.com/>
 * <https://tavicowood.cloudjetpotential.com/>
@@ -39,7 +39,7 @@ Một số website tuyển dụng mẫu được xây dựng trên nền tảng 
 * <https://mitssy.cloudjetpotential.com/>
 * <https://career.freshsaigon.com>
 
-Để sở hữu website tuyển dụng cho doanh nghiệp (miễn phí 1 tài khoản)
+**Để sở hữu website tuyển dụng cho doanh nghiệp (miễn phí 1 tài khoản)**
 
 * Đăng ký tại đây: <https://www.cloudjetpotential.com/?cpid=freeweb>
 * Hướng dẫn sử dụng: <https://help.cloudjetpotential.com>
