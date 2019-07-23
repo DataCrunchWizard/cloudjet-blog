@@ -45,3 +45,11 @@ Một số website tuyển dụng mẫu được xây dựng trên nền tảng 
 
 * Đăng ký tại đây: <https://www.cloudjetpotential.com/?cpid=freeweb>
 * Hướng dẫn sử dụng: <https://help.cloudjetpotential.com>
+
+
+
+Trong trường hợp doanh nghiệp mong muốn được hỗ trợ hoặc nâng cấp lên các gói cao cấp với nhiều tài khoản sử dụng, có thể liên hệ Cloudjet Solutions thông qua các kênh sau:
+
+* Facebook: <https://www.facebook.com/cloudjetsolutions>
+* Email: hello@cloudjetsolutions.com 
+* Phone: (028) 66 808 662
