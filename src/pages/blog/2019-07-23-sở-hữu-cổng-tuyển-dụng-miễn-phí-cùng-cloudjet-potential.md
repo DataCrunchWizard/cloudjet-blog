@@ -22,7 +22,7 @@ tags:
 ---
 > [Xem Video giới thiệu về Cloudjet Potential](https://www.youtube.com/embed/VoCvLd--P-o)
 
-Cloudjet Potential không những giúp doanh nghiệp sở hữu một cổng tuyển dụng (Career site) chuẩn, mà còn là một hệ thống ATS toàn diện với rất nhiều tính năng hỗ trợ giúp cho doanh nghiệp tiết kiệm thời gian và chi phí trong quá trình tuyển dụng. 
+Cloudjet Potential không những giúp doanh nghiệp sở hữu một cổng tuyển dụng (Career site) chuẩn, mà còn là một [hệ thống ATS](https://help.cloudjetpotential.com/) toàn diện với rất nhiều tính năng hỗ trợ giúp cho doanh nghiệp tiết kiệm thời gian và chi phí trong quá trình tuyển dụng. 
 
 ![1 cổng tuyển dụng xây dựng trên Cloudjet Potential](/img/screen-shot-2019-07-23-at-2.30.46-pm.png "1 cổng tuyển dụng xây dựng trên Cloudjet Potential")
 
