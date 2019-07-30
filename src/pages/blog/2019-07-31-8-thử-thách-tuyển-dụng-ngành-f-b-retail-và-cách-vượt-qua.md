@@ -58,6 +58,11 @@ Dù vấn đề là gì, có một vài cách dứt khoát để giải quyết 
 
 **Hiểu lý thật rõ lý do nghĩ việc**. Cách chắc chắn nhất để làm giảm tỉ lệ nghỉ việc của nhân viên trong cửa hàng của bạn là chặn lại các lỗ "rò rĩ" đang diễn ra. Và tất cả những gì cần làm để tìm ra lý do nhân viên của bạn nghĩ việc đó là tiến hành phỏng vấn sau nghĩ việc (exit interviews). Chỉ cần hỏi [năm câu hỏi ](https://www.forbes.com/sites/adp/2017/12/14/are-you-asking-these-5-essential-exit-interview-questions/#6116f8053f38)đơn giản bên dưới và bạn sẽ hiểu rõ sâu sắc để giảm bớt những trường hợp như vậy trong tương lai:
 
+![](/img/ebk2.jpg)
+
+\
+Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-sao-nhan-vien-cua-ban-nghi-viec)
+
 > (1) Tại sau bạn quyết định rời công ty
 >
 > (2) Nhiệm vụ và sự mong chờ của công việc có phù hợp với mong chờ của bạn
