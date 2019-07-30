@@ -81,7 +81,7 @@ Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai
 
 
 
-**Thiết kế ưu đãi làm cho tài năng hàng đầu của bạn ở lại.** Các chương trình khuyến khích chu đáo cũng có thể đóng một vai trò lớn trong việc không chỉ làm giảm doanh thu nhân viên của bạn mà còn tăng lợi nhuận của cửa hàng của bạn.
+**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng chu đáo không chỉ một vai trò lớn trong việc làm giảm tỉ lệ nghĩ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng. 
 
 
 
