@@ -15,8 +15,8 @@ tags:
   - Recruitment Challenges
   - Thử thách trong tuyển dụng
 ---
-Tỉ lệ nghĩ việc cực cao, cạnh tranh khốc liệt (để có được nhân viên tại từng địa điểm), nhu cầu thường xuyên biến đổi vì tính thời vụ ...  chỉ là một vài trong số rất nhiều thách thức tuyển dụng của ngành này làm hao tổn của các doanh nghiệp hàng ngàn tỉ mỗi năm.
+![Thử thách tuyển dụng ngành F&B và Retail](/img/maxresdefault.jpg "Thử thách tuyển dụng ngành F&B và Retail")
 
+Tỉ lệ nghỉ việc cực cao, cạnh tranh khốc liệt (để có được nhân viên tại từng địa điểm), nhu cầu thường xuyên biến đổi vì tính thời vụ ...  chỉ là một vài trong số rất nhiều thách thức tuyển dụng của ngành này làm hao tổn của các doanh nghiệp hàng ngàn tỉ mỗi năm.
 
-
-And if you run a retail store (or a chain of retail stores!), the way you handle your recruitment actually impacts your business’s overall profitability. So let’s look at what the most pressing retail recruitment challenges are and a few ways you can use to overcome them.
+Khi bạn điều hành một cửa hàng bán lẻ hoặc F&B (hoặc một chuỗi các cửa hàng) thì phương pháp tuyển dụng của bạn ảnh hưởng rất lớn đến lợi nhuận chung của doanh nghiệp. Vì vậy, hãy cùng Cloudjet Potential nhìn vào những thách thức tuyển dụng trong ngành bán lẻ và một vài cách giúp bạn có thể sử dụng để vượt qua chúng.
