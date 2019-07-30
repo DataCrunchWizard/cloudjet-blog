@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 8 Thử Thách Tuyển Dụng Ngành F&B & Retail (và cách vượt qua chúng)
+title: 5 Thử Thách Tuyển Dụng Ngành F&B & Retail (và cách vượt qua chúng)
 date: 2019-07-30T16:49:58.225Z
 description: >+
   Là một trong những ngành lớn nhất nhìn ở khía cạnh tuyển dụng ( đóng góp vào
@@ -93,11 +93,11 @@ Ngoài ra, bởi vì nhân viên bán lẻ luôn tương tác với khách hàng
 
 Đáng buồn thay, có một cách chắc chắn để giải quyết phần đầu tiên của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Chỉ cần xem hướng dẫn đánh giá kỹ năng dịch vụ khách hàng này, và bạn nên được thiết lập.
 
-## **4. Thuê những nhà quản lý tốt và giỏi hơn**
+## **3. Thuê những nhà quản lý tốt và giỏi hơn**
 
 Nếu có một câu ngạn ngữ tuyển dụng nào đó áp dụng liền mạch cho ngành bán lẻ, thì đó là câu này:
 
-Nhân viên của công ty don don rời công ty, họ rời khỏi nhà quản lý
+**Nhân viên của công ty don don rời công ty, họ rời khỏi nhà quản lý**
 
 Bạn sẽ ngạc nhiên khi biết rằng một cuộc khảo sát với hơn một triệu nhân viên đã xác định rằng lý do số 1 khiến mọi người nghỉ việc là vì một ông chủ tồi hoặc người quản lý trực tiếp.
 
@@ -107,19 +107,13 @@ Nhà tuyển dụng Rời khỏi những người quản lý tồiHire và đào
 
 Nhưng có một vài cách để khắc phục thách thức tuyển dụng người quản lý xấu của tập tin trực tuyến, như sau:
 
+**Thuê quản lý cửa hàng tốt hơn.** Khi nói đến việc thuê quản lý cửa hàng, rất nhiều doanh nghiệp bán lẻ chỉ tìm kiếm các kỹ năng tổ chức. Mặc dù các kỹ năng tổ chức là điều kiện tiên quyết để ứng viên trở nên xuất sắc trong vai trò quản lý, nhưng họ có thể không đủ (vì các nhà quản lý cũng cần phải giỏi trong việc quản lý con người). Vì vậy, khi tuyển dụng các nhà quản lý, hãy đánh giá họ về một vài trong số những người có kỹ năng này.
 
+**Đào tạo các nhà quản lý để trở nên tốt hơn trong công việc của họ.** Quản lý vi mô, phê bình quá mức, quản lý kém là những đặc điểm chung của các nhà quản lý tồi. Vì vậy, hãy xem liệu bạn có thể đưa ra các điều khoản như ngày đào tạo, khóa học trực tuyến hoặc hội thảo để cải thiện kỹ năng của người quản lý cửa hàng của bạn, để họ có thể làm tốt hơn trong công việc.
 
-Thuê quản lý cửa hàng tốt hơn. Khi nói đến việc thuê quản lý cửa hàng, rất nhiều doanh nghiệp bán lẻ chỉ tìm kiếm các kỹ năng tổ chức. Mặc dù các kỹ năng tổ chức là điều kiện tiên quyết để ứng viên trở nên xuất sắc trong vai trò quản lý, nhưng họ có thể không đủ (vì các nhà quản lý cũng cần phải giỏi trong việc quản lý con người). Vì vậy, khi tuyển dụng các nhà quản lý, hãy đánh giá họ về một vài trong số những người có kỹ năng này.
+**Biến những nhà quản lý của bạn làm Doers.** Vì vậy, hãy tìm hiểu xem bạn có thể giúp người quản lý của mình thực sự tham gia vào công việc không (thay vì chỉ quản lý). Điều này rất quan trọng vì khi nhân viên bán lẻ của bạn nhìn thấy một người quản lý rất tích cực, họ cảm thấy được truyền cảm hứng để làm công việc tốt nhất của họ!
 
-
-
-Đào tạo các nhà quản lý để trở nên tốt hơn trong công việc của họ. Quản lý vi mô, phê bình quá mức, quản lý kém là những đặc điểm chung của các nhà quản lý tồi. Vì vậy, hãy xem liệu bạn có thể đưa ra các điều khoản như ngày đào tạo, khóa học trực tuyến hoặc hội thảo để cải thiện kỹ năng của người quản lý cửa hàng của bạn, để họ có thể làm tốt hơn trong công việc.
-
-
-
-Làm cho những người quản lý của bạn làm Doers. Vì vậy, hãy tìm hiểu xem bạn có thể giúp người quản lý của mình thực sự tham gia vào công việc không (thay vì chỉ quản lý). Điều này rất quan trọng vì khi nhân viên bán lẻ của bạn nhìn thấy một người quản lý rất tích cực, họ cảm thấy được truyền cảm hứng để làm công việc tốt nhất của họ!
-
-## 5. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
+## 4. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
 
 Tính thời vụ là phổ biến trong các doanh nghiệp bán lẻ. Một số doanh nghiệp nhận được nhiều doanh số hơn trước Giáng sinh, trong khi những doanh nghiệp khác trong mùa hè.
 
@@ -135,7 +129,7 @@ Theo Snag, hầu hết các nhà bán lẻ phải đối mặt với việc thi�
 
  Mặc dù nó không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng chắc chắn là không thể. Chúng tôi đã xuất bản một hướng dẫn chuyên sâu về việc đánh bại thách thức tuyển dụng bán lẻ theo mùa tại đây. Kiểm tra nó ngay bây giờ và bạn sẽ tiếp tục tìm kiếm những tài năng địa phương tốt nhất cho cửa hàng của bạn trong tất cả các mùa bận rộn trong năm nay. Tìm hiểu các chiến thuật có thể hành động để tạo kế hoạch tuyển dụng theo mùa, viết quảng cáo việc làm theo mùa, nhắm mục tiêu đúng nhân khẩu học, và nhiều hơn nữa.
 
-## **6. Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
+## **5. Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
 
 Khi nói đến trò chơi tuyển dụng bán lẻ, cùng một tài năng có sẵn cho tất cả các cửa hàng nằm trong cùng khu vực.
 
@@ -157,7 +151,9 @@ Tối ưu hóa danh sách công việc của bạn để xếp hạng địa ph�
 
 Lợi ích tuyển dụng địa phương Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
 
-## 6. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau** 
+
+
+## **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau** 
 
 Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa hàng, điều này bổ sung thêm một chiều cho việc tuyển dụng của họ.
 
