@@ -73,7 +73,11 @@ Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-s
 >
 > (5) Điều gì bạn ghét nhất khi làm việc ở đây? 
 
-**Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, doanh thu nhân viên cao của bạn là kết quả trực tiếp của việc thiếu chiến lược giữ chân. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp đầy đủ, đặc quyền hào phóng (nhưng chi phí thấp) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ doanh thu nhân viên cho doanh nghiệp bán lẻ của bạn.
+![nghệ thuật giữ chân nhân tài](/img/nghê-thuat-giu-chan-nhan-tai-cua-nha-lanh-dao-hien-dai-2.jpg)
+
+Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai/)
+
+**Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, tỉ lệ tỉ lệ nghĩ việc cao là kết quả trực tiếp của việc thiếu chiến lược giữ chân nhân viên. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp  phù hợp, những phúc lợi đặc biệt ([nhưng chi phí thấp](https://www.thebalancesmb.com/low-cost-perks-retail-employees-2890448)) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ nghĩ việc
 
 
 
