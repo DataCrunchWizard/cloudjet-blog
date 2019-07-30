@@ -56,11 +56,19 @@ Dù vấn đề là gì, có một vài cách dứt khoát để giải quyết 
 
 
 
-**Hiểu lý thật rõ lý do nghĩ việc**. Cách chắc chắn nhất để làm giảm doanh thu của nhân viên trong cửa hàng bán lẻ của bạn là cắm các rò rỉ trên mạng mà gây ra. Và tất cả những gì cần thiết để tìm ra lý do nhân viên của bạn rời đi đang tiến hành phỏng vấn lối ra. Chỉ cần hỏi năm câu hỏi đơn giản này cho nhân viên bán lẻ của bạn đã bỏ việc và bạn sẽ khám phá những hiểu biết sâu sắc để giảm bớt những trường hợp như vậy trong tương lai.
+**Hiểu lý thật rõ lý do nghĩ việc**. Cách chắc chắn nhất để làm giảm tỉ lệ nghỉ việc của nhân viên trong cửa hàng của bạn là chặn lại các lỗ "rò rĩ" đang diễn ra. Và tất cả những gì cần làm để tìm ra lý do nhân viên của bạn nghĩ việc đó là tiến hành phỏng vấn sau nghĩ việc (exit interviews). Chỉ cần hỏi [năm câu hỏi ](https://www.forbes.com/sites/adp/2017/12/14/are-you-asking-these-5-essential-exit-interview-questions/#6116f8053f38)đơn giản bên dưới và bạn sẽ hiểu rõ sâu sắc để giảm bớt những trường hợp như vậy trong tương lai:
 
+> (1) Tại sau bạn quyết định rời công ty
+>
+> (2) Nhiệm vụ và sự mong chờ của công việc có phù hợp với mong chờ của bạn
+>
+> (3) Bạn có đầy đủ công cụ và nguồn lực phù hợp để làm việc hiệu quả không? 
+>
+> (4) Điều gì bạn thích nhất khi làm việc ở đây?
+>
+> (5) Điều gì bạn ghét nhất khi làm việc ở đây? 
 
-
-Xây dựng chiến lược giữ chân nhân tài. Đôi khi, doanh thu nhân viên cao của bạn là kết quả trực tiếp của việc thiếu chiến lược giữ chân. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp đầy đủ, đặc quyền hào phóng (nhưng chi phí thấp) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ doanh thu nhân viên cho doanh nghiệp bán lẻ của bạn.
+**Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, doanh thu nhân viên cao của bạn là kết quả trực tiếp của việc thiếu chiến lược giữ chân. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp đầy đủ, đặc quyền hào phóng (nhưng chi phí thấp) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ doanh thu nhân viên cho doanh nghiệp bán lẻ của bạn.
 
 
 
