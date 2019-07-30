@@ -22,13 +22,11 @@ Tỉ lệ nghỉ việc cực cao, cạnh tranh khốc liệt (để có đượ
 Khi bạn điều hành một cửa hàng bán lẻ hoặc F&B (hoặc một chuỗi các cửa hàng) thì phương pháp tuyển dụng của bạn ảnh hưởng rất lớn đến lợi nhuận chung của doanh nghiệp. Vì vậy, hãy cùng Cloudjet Potential nhìn vào những thách thức tuyển dụng trong ngành bán lẻ và một vài cách giúp bạn có thể sử dụng để vượt qua chúng.
 
 1. **Chiến đấu với tỉ lệ nghỉ việc cực cao** 
-2. **Thu hút và giữ chân một lực lượng lao động đa dạng**
-3. **Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
-4. **Thuê những nhà quản lý tốt hơn**
-5. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
-6. **Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
-7. **Tuyển dụng ở nhiều địa điểm khác nhau** 
-8. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng**
+2. **Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
+3. **Thuê những nhà quản lý tốt hơn**
+4. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
+5. **Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
+6. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi Tuyển dụng ở nhiều địa điểm khác nhau** 
 
 
 
@@ -171,10 +169,6 @@ Hãy giúp đỡ tuyển dụng có sẵn. Nếu bạn thấy rằng người qu
 
 Như bạn có thể nhận ra, một số thách thức tuyển dụng bán lẻ mà bạn phải đối mặt có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
 
-
-
 Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng cao hơn thì nghiêm trọng hơn và don có bất kỳ giải pháp tức thời nào.
-
-
 
 Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng bán lẻ có các yếu tố trong những điều này và nhiều hơn nữa. Dưới đây là một số lời khuyên tuyệt vời để xây dựng chiến lược tuyển dụng bán lẻ chiến thắng cho năm 2019, trong trường hợp bạn cần nguồn cảm hứng.
