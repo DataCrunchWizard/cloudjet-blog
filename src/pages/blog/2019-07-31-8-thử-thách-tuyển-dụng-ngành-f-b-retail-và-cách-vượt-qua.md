@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 8 Thử Thách Tuyển Dụng Ngành F&B & Retail (và cách vượt qua)
+title: 8 Thử Thách Tuyển Dụng Ngành F&B & Retail (và cách vượt qua chúng)
 date: 2019-07-30T16:49:58.225Z
 description: >+
   Là một trong những ngành lớn nhất nhìn ở khía cạnh tuyển dụng ( đóng góp vào
