@@ -21,7 +21,7 @@ Tỉ lệ nghỉ việc cực cao, cạnh tranh khốc liệt (để có đượ
 
 Khi bạn điều hành một cửa hàng bán lẻ hoặc F&B (hoặc một chuỗi các cửa hàng) thì phương pháp tuyển dụng của bạn ảnh hưởng rất lớn đến lợi nhuận chung của doanh nghiệp. Vì vậy, hãy cùng Cloudjet Potential nhìn vào những thách thức tuyển dụng trong ngành bán lẻ và một vài cách giúp bạn có thể sử dụng để vượt qua chúng.
 
-1. **Chiến đấu với tỉ lệ nghĩ việc cực cao** 
+1. **Chiến đấu với tỉ lệ nghỉ việc cực cao** 
 2. **Thu hút và giữ chân một lực lượng lao động đa dạng**
 3. **Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
 4. **Thuê những nhà quản lý tốt hơn**
@@ -36,7 +36,37 @@ Hãy cùng bắt đầu với vấn đề đầu tiên
 
 
 
-## 1. Chiến đấu với tỉ lệ nghĩ việc cực cao 
+## 1. Chiến đấu với tỉ lệ nghỉ việc cực cao 
+
+Ngành bán lẻ là một trong năm ngành có tỷ lệ nghĩ việc nhân viên cao nhất.
+
+Ở thị trường Mỹ, chi phí tuyển dụng & đào tạo trung bình cho mỗi vị trí là [$ 3,328](https://www.retailwire.com/discussion/eight-reasons-why-retail-employee-turnover-is-so-high/), tương tự như vậy, ở Việt Nam quá trình tuyển dụng và đào tạo thay thế rất tốn kém - ngay cả đối với một công việc bán lẻ cấp thấp nhất với thù lao 20 000 VND/giờ. 
+
+Vì thế, tỉ lệ nghĩ việc cao làm hao tổn chi phí cực lớn cho các doanh nghiệp F&B và Retail. Vậy đâu là nguyên nhân của vấn đề này? 
+
+Vâng, có nhiều lý do.
+
+Đôi khi, vấn đề đơn giản chỉ là tuyển nhân viên không phù hợp và không được đánh giá kỹ càng ở giai đoạn tuyển dụng. Đôi khi, vấn đề là có những cơ hội việc làm khác tốt hơn ở những nơi gần nhà hơn (là một yếu tố rất quan trọng). Mặt khác, có thể là các nhà quản lý kém cũng có thể khiến nhân viên giỏi phải nghỉ việc.
+
+
+
+Nhưng có một vài cách dứt khoát để giải quyết thách thức tuyển dụng. Đây là ba giải pháp mà bạn có thể bắt đầu ngay. 
+
+
+
+**Hiểu lý thật rõ lý do nghĩ việc**. Cách chắc chắn nhất để làm giảm doanh thu của nhân viên trong cửa hàng bán lẻ của bạn là cắm các rò rỉ trên mạng mà gây ra. Và tất cả những gì cần thiết để tìm ra lý do nhân viên của bạn rời đi đang tiến hành phỏng vấn lối ra. Chỉ cần hỏi năm câu hỏi đơn giản này cho nhân viên bán lẻ của bạn đã bỏ việc và bạn sẽ khám phá những hiểu biết sâu sắc để giảm bớt những trường hợp như vậy trong tương lai.
+
+
+
+Xây dựng chiến lược giữ chân nhân tài. Đôi khi, doanh thu nhân viên cao của bạn là kết quả trực tiếp của việc thiếu chiến lược giữ chân. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp đầy đủ, đặc quyền hào phóng (nhưng chi phí thấp) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ doanh thu nhân viên cho doanh nghiệp bán lẻ của bạn.
+
+
+
+Thiết kế ưu đãi làm cho tài năng hàng đầu của bạn ở lại. Các chương trình khuyến khích chu đáo cũng có thể đóng một vai trò lớn trong việc không chỉ làm giảm doanh thu nhân viên của bạn mà còn tăng lợi nhuận của cửa hàng của bạn.
+
+
+
+Dưới đây là một số lý do tại sao doanh thu nhân viên rất cao trong lĩnh vực bán lẻ (và cách để giải quyết từng).
 
 ## 2. **Thu hút và giữ chân một lực lượng lao động đa dạng**
 
