@@ -44,4 +44,12 @@ Hãy cùng bắt đầu với vấn đề đầu tiên
 
 ## **3. Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
 
-****
+## **4. Thuê những nhà quản lý tốt và giỏi hơn**
+
+## 5. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
+
+## **6. Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
+
+## 7. **Tuyển dụng ở nhiều địa điểm khác nhau** 
+
+## 8. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng**
