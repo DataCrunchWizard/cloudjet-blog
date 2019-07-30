@@ -81,7 +81,7 @@ Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai
 
 
 
-**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng chu đáo không chỉ một vai trò lớn trong việc làm giảm tỉ lệ nghĩ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng. 
+**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng chu đáo không chỉ một vai trò lớn trong việc làm giảm tỉ lệ nghĩ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp của bạn. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
 
 
 
