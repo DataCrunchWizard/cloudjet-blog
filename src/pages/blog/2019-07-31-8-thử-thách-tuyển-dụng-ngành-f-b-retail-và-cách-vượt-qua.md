@@ -20,3 +20,28 @@ tags:
 Tỉ lệ nghỉ việc cực cao, cạnh tranh khốc liệt (để có được nhân viên tại từng địa điểm), nhu cầu thường xuyên biến đổi vì tính thời vụ ...  chỉ là một vài trong số rất nhiều thách thức tuyển dụng của ngành này làm hao tổn của các doanh nghiệp hàng ngàn tỉ mỗi năm.
 
 Khi bạn điều hành một cửa hàng bán lẻ hoặc F&B (hoặc một chuỗi các cửa hàng) thì phương pháp tuyển dụng của bạn ảnh hưởng rất lớn đến lợi nhuận chung của doanh nghiệp. Vì vậy, hãy cùng Cloudjet Potential nhìn vào những thách thức tuyển dụng trong ngành bán lẻ và một vài cách giúp bạn có thể sử dụng để vượt qua chúng.
+
+1. **Chiến đấu với tỉ lệ nghĩ việc cực cao** 
+2. **Thu hút và giữ chân một lực lượng lao động đa dạng**
+3. **Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
+4. **Thuê những nhà quản lý tốt hơn**
+5. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
+6. **Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
+7. **Tuyển dụng ở nhiều địa điểm khác nhau** 
+8. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng**
+
+
+
+Hãy cùng bắt đầu với vấn đề đầu tiên
+
+
+
+## 1. Chiến đấu với tỉ lệ nghĩ việc cực cao 
+
+
+
+## 2. **Thu hút và giữ chân một lực lượng lao động đa dạng**
+
+## **3. Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
+
+****
