@@ -85,18 +85,100 @@ Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai
 
 
 
-## 2. **Thu hút và giữ chân một lực lượng lao động đa dạng**
+## **2. Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
 
+Không giống như hầu hết các công việc từ các ngành công nghiệp khác, các công việc bán lẻ không nhất thiết phải nhắm đến một trình độ chuyên môn, nền tảng giáo dục hoặc kinh nghiệm cụ thể. Điều này có nghĩa là những người có trình độ học vấn và trình độ kinh nghiệm khác nhau có thể đủ điều kiện. Mặc dù đây là một điều tuyệt vời, nhưng nó khiến việc xác định những người phù hợp nhất trở nên khó khăn khi bạn không có một hồ sơ ứng viên lý tưởng để phù hợp với các ứng viên.
 
+Ngoài ra, bởi vì nhân viên bán lẻ luôn tương tác với khách hàng (ở các năng lực khác nhau), nên hơn bất cứ điều gì khác, họ cần phải có kỹ năng dịch vụ khách hàng tuyệt vời. Và kỹ năng dịch vụ khách hàng khá khó để đánh giá.
 
-## **3. Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
+Đáng buồn thay, có một cách chắc chắn để giải quyết phần đầu tiên của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Chỉ cần xem hướng dẫn đánh giá kỹ năng dịch vụ khách hàng này, và bạn nên được thiết lập.
 
 ## **4. Thuê những nhà quản lý tốt và giỏi hơn**
 
+Nếu có một câu ngạn ngữ tuyển dụng nào đó áp dụng liền mạch cho ngành bán lẻ, thì đó là câu này:
+
+Nhân viên của công ty don don rời công ty, họ rời khỏi nhà quản lý
+
+Bạn sẽ ngạc nhiên khi biết rằng một cuộc khảo sát với hơn một triệu nhân viên đã xác định rằng lý do số 1 khiến mọi người nghỉ việc là vì một ông chủ tồi hoặc người quản lý trực tiếp.
+
+Điều này đúng cho không gian bán lẻ, quá.
+
+Nhà tuyển dụng Rời khỏi những người quản lý tồiHire và đào tạo những người quản lý mà nhân viên của bạn không muốn rời xa.
+
+Nhưng có một vài cách để khắc phục thách thức tuyển dụng người quản lý xấu của tập tin trực tuyến, như sau:
+
+
+
+Thuê quản lý cửa hàng tốt hơn. Khi nói đến việc thuê quản lý cửa hàng, rất nhiều doanh nghiệp bán lẻ chỉ tìm kiếm các kỹ năng tổ chức. Mặc dù các kỹ năng tổ chức là điều kiện tiên quyết để ứng viên trở nên xuất sắc trong vai trò quản lý, nhưng họ có thể không đủ (vì các nhà quản lý cũng cần phải giỏi trong việc quản lý con người). Vì vậy, khi tuyển dụng các nhà quản lý, hãy đánh giá họ về một vài trong số những người có kỹ năng này.
+
+
+
+Đào tạo các nhà quản lý để trở nên tốt hơn trong công việc của họ. Quản lý vi mô, phê bình quá mức, quản lý kém là những đặc điểm chung của các nhà quản lý tồi. Vì vậy, hãy xem liệu bạn có thể đưa ra các điều khoản như ngày đào tạo, khóa học trực tuyến hoặc hội thảo để cải thiện kỹ năng của người quản lý cửa hàng của bạn, để họ có thể làm tốt hơn trong công việc.
+
+
+
+Làm cho những người quản lý của bạn làm Doers. Vì vậy, hãy tìm hiểu xem bạn có thể giúp người quản lý của mình thực sự tham gia vào công việc không (thay vì chỉ quản lý). Điều này rất quan trọng vì khi nhân viên bán lẻ của bạn nhìn thấy một người quản lý rất tích cực, họ cảm thấy được truyền cảm hứng để làm công việc tốt nhất của họ!
+
 ## 5. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
+
+Tính thời vụ là phổ biến trong các doanh nghiệp bán lẻ. Một số doanh nghiệp nhận được nhiều doanh số hơn trước Giáng sinh, trong khi những doanh nghiệp khác trong mùa hè.
+
+Điều đó có nghĩa là, nhu cầu nhân sự của các doanh nghiệp bán lẻ khá biến động (mặc dù bạn có thể ước tính hợp lý số lượng bàn tay phụ của bạn. Bạn sẽ cần phải sống sót vội vàng và kiếm được nhiều doanh thu nhất).
+
+Tính thời vụ này đặt ra một thách thức tuyển dụng lớn đối với các cửa hàng bán lẻ vì nó cần một loại tuyển dụng chuyên biệt gọi là thuê khối lượng cao. Việc thuê khối lượng lớn về cơ bản có nghĩa là thuê nhiều nhân viên trong một khoảng thời gian ngắn.
+
+Đôi khi, thách thức tuyển dụng khối lượng lớn này trở nên tồi tệ hơn nếu các nhân viên bán lẻ thông thường (người đã quen với khối lượng công việc tăng lên) cuối cùng đã bỏ việc vì nó.
+
+Ngoài ra, do hoạt động kinh doanh của tất cả các cửa hàng tăng lên trong thời gian này, sự cạnh tranh về tài năng địa phương trở nên siêu cao trong thời gian này.
+
+Theo Snag, hầu hết các nhà bán lẻ phải đối mặt với việc thiếu công nhân có trình độ và có sẵn, cũng như cạnh tranh với các nhà tuyển dụng khác trong mùa lễ 2018.
+
+ Mặc dù nó không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng chắc chắn là không thể. Chúng tôi đã xuất bản một hướng dẫn chuyên sâu về việc đánh bại thách thức tuyển dụng bán lẻ theo mùa tại đây. Kiểm tra nó ngay bây giờ và bạn sẽ tiếp tục tìm kiếm những tài năng địa phương tốt nhất cho cửa hàng của bạn trong tất cả các mùa bận rộn trong năm nay. Tìm hiểu các chiến thuật có thể hành động để tạo kế hoạch tuyển dụng theo mùa, viết quảng cáo việc làm theo mùa, nhắm mục tiêu đúng nhân khẩu học, và nhiều hơn nữa.
 
 ## **6. Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
 
-## 7. **Tuyển dụng ở nhiều địa điểm khác nhau** 
+Khi nói đến trò chơi tuyển dụng bán lẻ, cùng một tài năng có sẵn cho tất cả các cửa hàng nằm trong cùng khu vực.
 
-## 8. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng**
+Điều đó có nghĩa là, các ứng cử viên địa phương của bạn có rất nhiều lựa chọn.
+
+Trừ khi bạn tìm cách tích cực xây dựng và thu hút một cơ sở tài năng địa phương, bạn sẽ bỏ lỡ cơ hội tốt nhất.
+
+Dưới đây, làm thế nào để giành được tài năng địa phương tốt nhất cho cửa hàng bán lẻ của bạn.
+
+Hãy tiếp tục xây dựng đội ngũ tài năng của bạn. Sử dụng các chiến thuật như đăng ký khách hàng của bạn để thông báo việc làm (tất nhiên là có sự cho phép!), Tổ chức các sự kiện tuyển dụng địa phương và mạng xã hội để xây dựng đội ngũ tài năng của bạn. Theo dõi sự phát triển của nhóm tài năng của bạn và chất lượng của các ứng cử viên được thêm vào nó.
+
+Tham gia nhóm tài năng của bạn. Nhóm tài năng địa phương của bạn sẽ chỉ hữu ích với bạn NẾU ứng viên cảm thấy gắn bó và nhiệt tình khi làm việc với bạn. Sử dụng các kênh như email và SMS để giữ liên lạc với các tài nguyên tiềm năng trong nhóm tài năng của bạn. Thường xuyên nói với họ về các đặc quyền (như giảm giá hàng hóa của cửa hàng và hơn thế nữa) mà nhân viên của bạn nhận được.
+
+
+
+Tối ưu hóa danh sách công việc của bạn để xếp hạng địa phương tốt hơn. Vì tài năng địa phương thực hiện tìm kiếm công việc siêu cục bộ, bạn phải tối ưu hóa danh sách công việc của mình để xếp hạng tốt hơn cho bất kỳ từ khóa nào gợi ý tìm kiếm quảng cáo việc làm bán lẻ địa phương.
+
+
+
+Lợi ích tuyển dụng địa phương Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
+
+## 6. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau** 
+
+Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa hàng, điều này bổ sung thêm một chiều cho việc tuyển dụng của họ.
+
+Thuê cho nhiều cửa hàng là một thách thức vì rất nhiều lần các cửa hàng này (thường là nhượng quyền thuộc sở hữu của những người khác nhau), donith có một quy trình tuyển dụng tập trung.
+
+Điều này thiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) mà mỗi cửa hàng xử lý việc thuê riêng của mình. Bây giờ, vì điều đó không khả thi đối với mọi cửa hàng bán lẻ của một công ty có nguồn nhân sự tại chỗ, việc tuyển dụng này thường được thực hiện bởi người quản lý cửa hàng, người có thể không xuất sắc như một nhà tuyển dụng.
+
+Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển dụng bán lẻ này:
+
+Cố gắng thiết lập một quy trình tuyển dụng có cấu trúc. Bây giờ, không phải lúc nào cũng có thể thiết lập một quy trình tuyển dụng tập trung trên một chuỗi các cửa hàng, nhưng bạn có thể cố gắng cung cấp cho nó cấu trúc nhất định. Bắt đầu bằng cách sử dụng một ngăn xếp công nghệ tập trung hỗ trợ tuyển dụng nhiều địa điểm. Chỉ cần sử dụng cùng một nền tảng đánh giá ATS hoặc / và trước khi tuyển dụng, bạn sẽ có thể chuẩn hóa một phần lớn trong quy trình tuyển dụng của mình. Ngoài ra, hãy yêu cầu nhà tuyển dụng nội bộ của bạn tạo ra một vở kịch tuyển dụng và phân phối nó cho tất cả các cửa hàng của bạn.
+
+Cung cấp đào tạo cho người quản lý cửa hàng của bạn. Để cải thiện kỹ năng tuyển dụng quản lý cửa hàng của bạn, hãy yêu cầu họ thực hiện một vài khóa tuyển dụng. Nếu có thể, hãy sắp xếp để họ tham dự các hội thảo tuyển dụng tập trung vào tuyển dụng bán lẻ. Hoặc ít nhất, hãy cho họ một vài cuốn sách tuyệt vời về việc tuyển dụng.
+
+Hãy giúp đỡ tuyển dụng có sẵn. Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các chuyên gia tư vấn tuyển dụng hấp dẫn để giúp họ trên trang web. Sắp xếp hỗ trợ tuyển dụng như vậy đã giành được chỉ cần cải thiện chất lượng tuyển dụng của bạn nhưng cũng sẽ hiệu quả về chi phí.
+
+Như bạn có thể nhận ra, một số thách thức tuyển dụng bán lẻ mà bạn phải đối mặt có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
+
+
+
+Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng cao hơn thì nghiêm trọng hơn và don có bất kỳ giải pháp tức thời nào.
+
+
+
+Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng bán lẻ có các yếu tố trong những điều này và nhiều hơn nữa. Dưới đây là một số lời khuyên tuyệt vời để xây dựng chiến lược tuyển dụng bán lẻ chiến thắng cho năm 2019, trong trường hợp bạn cần nguồn cảm hứng.
