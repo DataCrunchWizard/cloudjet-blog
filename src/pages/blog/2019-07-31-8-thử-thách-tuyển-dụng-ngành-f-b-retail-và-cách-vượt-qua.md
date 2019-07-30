@@ -38,8 +38,6 @@ Hãy cùng bắt đầu với vấn đề đầu tiên
 
 ## 1. Chiến đấu với tỉ lệ nghĩ việc cực cao 
 
-
-
 ## 2. **Thu hút và giữ chân một lực lượng lao động đa dạng**
 
 ## **3. Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
