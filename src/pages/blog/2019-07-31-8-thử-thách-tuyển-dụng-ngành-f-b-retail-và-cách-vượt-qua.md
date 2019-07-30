@@ -72,7 +72,7 @@ Dù vấn đề là gì, có một vài cách dứt khoát để giải quyết 
 
 
 
-Thiết kế ưu đãi làm cho tài năng hàng đầu của bạn ở lại. Các chương trình khuyến khích chu đáo cũng có thể đóng một vai trò lớn trong việc không chỉ làm giảm doanh thu nhân viên của bạn mà còn tăng lợi nhuận của cửa hàng của bạn.
+**Thiết kế ưu đãi làm cho tài năng hàng đầu của bạn ở lại.** Các chương trình khuyến khích chu đáo cũng có thể đóng một vai trò lớn trong việc không chỉ làm giảm doanh thu nhân viên của bạn mà còn tăng lợi nhuận của cửa hàng của bạn.
 
 
 
