@@ -38,19 +38,21 @@ Hãy cùng bắt đầu với vấn đề đầu tiên
 
 ## 1. Chiến đấu với tỉ lệ nghỉ việc cực cao 
 
-Ngành bán lẻ là một trong năm ngành có tỷ lệ nghĩ việc nhân viên cao nhất.
+![](/img/don-xin-nghi-viec-6.jpg)
 
-Ở thị trường Mỹ, chi phí tuyển dụng & đào tạo trung bình cho mỗi vị trí là [$ 3,328](https://www.retailwire.com/discussion/eight-reasons-why-retail-employee-turnover-is-so-high/), tương tự như vậy, ở Việt Nam quá trình tuyển dụng và đào tạo thay thế rất tốn kém - ngay cả đối với một công việc bán lẻ cấp thấp nhất với thù lao 20 000 VND/giờ. 
+Ngành bán lẻ là một trong năm ngành có tỷ lệ nghỉ việc nhân viên cao nhất.
+
+Ở thị trường Mỹ, chi phí tuyển dụng & đào tạo trung bình cho mỗi vị trí là [$ 3,328](https://www.retailwire.com/discussion/eight-reasons-why-retail-employee-turnover-is-so-high/); tương tự như vậy, ở Việt Nam quá trình tuyển dụng và đào tạo thay thế rất tốn kém - ngay cả đối với một công việc bán lẻ cấp thấp nhất với thù lao 20 000 VND/giờ. 
 
 Vì thế, tỉ lệ nghĩ việc cao làm hao tổn chi phí cực lớn cho các doanh nghiệp F&B và Retail. Vậy đâu là nguyên nhân của vấn đề này? 
 
-Vâng, có nhiều lý do.
+Vâng, **có nhiều lý do.**
 
 Đôi khi, vấn đề đơn giản chỉ là tuyển nhân viên không phù hợp và không được đánh giá kỹ càng ở giai đoạn tuyển dụng. Đôi khi, vấn đề là có những cơ hội việc làm khác tốt hơn ở những nơi gần nhà hơn (là một yếu tố rất quan trọng). Mặt khác, có thể là các nhà quản lý kém cũng có thể khiến nhân viên giỏi phải nghỉ việc.
 
 
 
-Nhưng có một vài cách dứt khoát để giải quyết thách thức tuyển dụng. Đây là ba giải pháp mà bạn có thể bắt đầu ngay. 
+Dù vấn đề là gì, có một vài cách dứt khoát để giải quyết những thách thức ngày. Đây là ba giải pháp mà bạn có thể bắt đầu ngay. 
 
 
 
