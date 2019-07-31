@@ -27,31 +27,23 @@ Khi bạn điều hành một cửa hàng bán lẻ hoặc F&B (hoặc một chu
 4. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
 5. **Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
 
-
-
 Hãy cùng bắt đầu với vấn đề đầu tiên
 
-
-
-## 1. Chiến đấu với tỉ lệ nghỉ việc cực cao 
+## 1. Chiến đấu với tỉ lệ nghỉ việc cực cao
 
 ![](/img/don-xin-nghi-viec-6.jpg)
 
 Ngành bán lẻ là một trong năm ngành có tỷ lệ nghỉ việc nhân viên cao nhất.
 
-Ở thị trường Mỹ, chi phí tuyển dụng & đào tạo trung bình cho mỗi vị trí là [$ 3,328](https://www.retailwire.com/discussion/eight-reasons-why-retail-employee-turnover-is-so-high/); tương tự như vậy, ở Việt Nam quá trình tuyển dụng và đào tạo thay thế rất tốn kém - ngay cả đối với một công việc bán lẻ cấp thấp nhất với thù lao 20 000 VND/giờ. 
+Ở thị trường Mỹ, chi phí tuyển dụng & đào tạo trung bình cho mỗi vị trí là [$ 3,328](https://www.retailwire.com/discussion/eight-reasons-why-retail-employee-turnover-is-so-high/); tương tự như vậy, ở Việt Nam quá trình tuyển dụng và đào tạo thay thế rất tốn kém - ngay cả đối với một công việc bán lẻ cấp thấp nhất với thù lao 15 000 - 20 000 VND/giờ. 
 
 Vì thế, tỉ lệ nghĩ việc cao làm hao tổn chi phí cực lớn cho các doanh nghiệp F&B và Retail. Vậy đâu là nguyên nhân của vấn đề này? 
 
 Vâng, **có nhiều lý do.**
 
-Đôi khi, vấn đề đơn giản chỉ là tuyển nhân viên không phù hợp và không được đánh giá kỹ càng ở giai đoạn tuyển dụng. Đôi khi, vấn đề là có những cơ hội việc làm khác tốt hơn ở những nơi gần nhà hơn (là một yếu tố rất quan trọng). Mặt khác, có thể là các nhà quản lý kém cũng có thể khiến nhân viên giỏi phải nghỉ việc.
-
-
+Đôi khi, vấn đề đơn giản chỉ là tuyển nhân viên không phù hợp và không được đánh giá kỹ càng ở giai đoạn tuyển dụng. Đôi khi, vấn đề là có những cơ hội việc làm khác tốt hơn ở những nơi gần nhà hơn (nhân viên giỏi dễ dàng thay đổi một công ). Mặt khác, có thể là các nhà quản lý kém cũng có thể khiến nhân viên giỏi phải nghỉ việc.
 
 Dù vấn đề là gì, có một vài cách dứt khoát để giải quyết những thách thức ngày. Đây là ba giải pháp mà bạn có thể bắt đầu ngay. 
-
-
 
 **Hiểu lý thật rõ lý do nghĩ việc**. Cách chắc chắn nhất để làm giảm tỉ lệ nghỉ việc của nhân viên trong cửa hàng của bạn là chặn lại các lỗ "rò rĩ" đang diễn ra. Và tất cả những gì cần làm để tìm ra lý do nhân viên của bạn nghĩ việc đó là tiến hành phỏng vấn sau nghĩ việc (exit interviews). Chỉ cần hỏi [năm câu hỏi ](https://www.forbes.com/sites/adp/2017/12/14/are-you-asking-these-5-essential-exit-interview-questions/#6116f8053f38)đơn giản bên dưới và bạn sẽ hiểu rõ sâu sắc để giảm bớt những trường hợp như vậy trong tương lai:
 
@@ -62,43 +54,39 @@ Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-s
 
 > (1) Tại sau bạn quyết định rời công ty
 >
-> (2) Nhiệm vụ và sự mong chờ của công việc có phù hợp với mong chờ của bạn
+> (2) Trách nhiệm & êu cầu của công việc có phù hợp với mong chờ của bạn?
 >
 > (3) Bạn có đầy đủ công cụ và nguồn lực phù hợp để làm việc hiệu quả không? 
 >
 > (4) Điều gì bạn thích nhất khi làm việc ở đây?
 >
-> (5) Điều gì bạn ghét nhất khi làm việc ở đây? 
+> (5) Điều gì khiến bạn không hài lòng nhất khi làm việc ở ? 
 
 ![nghệ thuật giữ chân nhân tài](/img/nghê-thuat-giu-chan-nhan-tai-cua-nha-lanh-dao-hien-dai-2.jpg)
 
 Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai/)
 
-**Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, tỉ lệ tỉ lệ nghĩ việc cao là kết quả trực tiếp của việc thiếu chiến lược giữ chân nhân viên. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp  phù hợp, những phúc lợi đặc biệt ([nhưng chi phí thấp](https://www.thebalancesmb.com/low-cost-perks-retail-employees-2890448)) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ nghĩ việc
+**Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, tỉ lệ tỉ lệ nghỉ việc cao là kết quả trực tiếp của việc thiếu chiến lược giữ chân nhân viên. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp  phù hợp, những phúc lợi đặc biệt ([nhưng chi phí thấp](https://www.thebalancesmb.com/low-cost-perks-retail-employees-2890448)) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ ngh việc
 
+**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng được xây  chu một cách thận trọng không chỉ đóng vai trò lớn trong việc làm giảm tỉ lệ ngh việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
 
+## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng yêu** 
 
-**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng chu đáo không chỉ một vai trò lớn trong việc làm giảm tỉ lệ nghĩ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp của bạn. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
-
-
-
-## **2. Xác định hồ sơ ứng viên lý tưởng và đánh giá các kỹ năng một cách nhanh chóng**
-
-Không giống như hầu hết các công việc từ các ngành công nghiệp khác, các công việc bán lẻ không nhất thiết phải nhắm đến một trình độ chuyên môn, nền tảng giáo dục hoặc kinh nghiệm cụ thể. Điều này có nghĩa là những người có trình độ học vấn và trình độ kinh nghiệm khác nhau có thể đủ điều kiện. Mặc dù đây là một điều tuyệt vời, nhưng nó khiến việc xác định những người phù hợp nhất trở nên khó khăn khi bạn không có một hồ sơ ứng viên lý tưởng để phù hợp với các ứng viên.
+Không giống như hầu hết các công việc từ các ngành công nghiệp khác, các công việc bán lẻ không nhất thiết phải nhắm đến một trình độ chuyên môn, nền tảng giáo dục hoặc kinh nghiệm cụ thể. Điều này có nghĩa là những người có trình độ học vấn và trình độ kinh nghiệm khác nhau đều có thể phù . Mặc dù đây là một điều tuyệt vời, nhưng nó khiến việc xác định những ứng viên ù hợp nhất trở nên khó khăn khi bạn không có một chân dung ứng viên lý tưởng để so sánh. 
 
 Ngoài ra, bởi vì nhân viên bán lẻ luôn tương tác với khách hàng (ở các năng lực khác nhau), nên hơn bất cứ điều gì khác, họ cần phải có kỹ năng dịch vụ khách hàng tuyệt vời. Và kỹ năng dịch vụ khách hàng khá khó để đánh giá.
 
-Đáng buồn thay, có một cách chắc chắn để giải quyết phần đầu tiên của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Chỉ cần xem hướng dẫn đánh giá kỹ năng dịch vụ khách hàng này, và bạn nên được thiết lập.
+Đáng buồn thay, không có cách nào chắc chắn sẽ giải quyết vấn đề đầu  của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Đơn giản nhất là bạn nên tham khảo các cách đánh giá ứng viên cho từng kỹ năng sau đó thiết lập thang điểm đánh giá chi tiết từng hạng mục để tránh cảm tính và thiếu rõ ràng.
 
-## **3. Thuê những nhà quản lý tốt và giỏi hơn**
+## **3. Thuê những nhà quản lý giỏi** 
 
-Nếu có một câu ngạn ngữ tuyển dụng nào đó áp dụng liền mạch cho ngành bán lẻ, thì đó là câu này:
+Nếu có một câu có thể diễn tả chính xác vấn đề tuyển dụng, thì nó là câu này:
 
-**Nhân viên của công ty don don rời công ty, họ rời khỏi nhà quản lý**
+**"Nhân viên không  công ty, họ rời khỏi nhà quản lý**
 
 Bạn sẽ ngạc nhiên khi biết rằng một cuộc khảo sát với hơn một triệu nhân viên đã xác định rằng lý do số 1 khiến mọi người nghỉ việc là vì một ông chủ tồi hoặc người quản lý trực tiếp.
 
-Điều này đúng cho không gian bán lẻ, quá.
+Điều này càng đúng với ngành bán lẻ.
 
 Nhà tuyển dụng Rời khỏi những người quản lý tồiHire và đào tạo những người quản lý mà nhân viên của bạn không muốn rời xa.
 
@@ -140,17 +128,11 @@ Hãy tiếp tục xây dựng đội ngũ tài năng của bạn. Sử dụng c�
 
 Tham gia nhóm tài năng của bạn. Nhóm tài năng địa phương của bạn sẽ chỉ hữu ích với bạn NẾU ứng viên cảm thấy gắn bó và nhiệt tình khi làm việc với bạn. Sử dụng các kênh như email và SMS để giữ liên lạc với các tài nguyên tiềm năng trong nhóm tài năng của bạn. Thường xuyên nói với họ về các đặc quyền (như giảm giá hàng hóa của cửa hàng và hơn thế nữa) mà nhân viên của bạn nhận được.
 
-
-
 Tối ưu hóa danh sách công việc của bạn để xếp hạng địa phương tốt hơn. Vì tài năng địa phương thực hiện tìm kiếm công việc siêu cục bộ, bạn phải tối ưu hóa danh sách công việc của mình để xếp hạng tốt hơn cho bất kỳ từ khóa nào gợi ý tìm kiếm quảng cáo việc làm bán lẻ địa phương.
-
-
 
 Lợi ích tuyển dụng địa phương Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
 
-
-
-## **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau** 
+## **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau**
 
 Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa hàng, điều này bổ sung thêm một chiều cho việc tuyển dụng của họ.
 
