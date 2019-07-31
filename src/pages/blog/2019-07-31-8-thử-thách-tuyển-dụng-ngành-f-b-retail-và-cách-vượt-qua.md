@@ -60,9 +60,9 @@ Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-s
 >
 > (4) Điều gì bạn thích nhất khi làm việc ở đây?
 >
-> (5) Điều gì khiến bạn không hài lòng nhất khi làm việc ở ? 
+> (5) Điều gì khiến bạn không hài lòng nhất khi làm việc ở  ? 
 
-![nghệ thuật giữ chân nhân tài](/img/nghê-thuat-giu-chan-nhan-tai-cua-nha-lanh-dao-hien-dai-2.jpg)
+
 
 Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai/)
 
@@ -70,7 +70,7 @@ Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai
 
 **Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng được xây  chu một cách thận trọng không chỉ đóng vai trò lớn trong việc làm giảm tỉ lệ ngh việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
 
-## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng yêu** 
+## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng yêu**
 
 Không giống như hầu hết các công việc từ các ngành công nghiệp khác, các công việc bán lẻ không nhất thiết phải nhắm đến một trình độ chuyên môn, nền tảng giáo dục hoặc kinh nghiệm cụ thể. Điều này có nghĩa là những người có trình độ học vấn và trình độ kinh nghiệm khác nhau đều có thể phù . Mặc dù đây là một điều tuyệt vời, nhưng nó khiến việc xác định những ứng viên ù hợp nhất trở nên khó khăn khi bạn không có một chân dung ứng viên lý tưởng để so sánh. 
 
@@ -78,7 +78,7 @@ Ngoài ra, bởi vì nhân viên bán lẻ luôn tương tác với khách hàng
 
 Đáng buồn thay, không có cách nào chắc chắn sẽ giải quyết vấn đề đầu  của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Đơn giản nhất là bạn nên tham khảo các cách đánh giá ứng viên cho từng kỹ năng sau đó thiết lập thang điểm đánh giá chi tiết từng hạng mục để tránh cảm tính và thiếu rõ ràng.
 
-## **3. Thuê những nhà quản lý giỏi** 
+## **3. Thuê những nhà quản lý giỏi**
 
 Nếu có một câu có thể diễn tả chính xác vấn đề tuyển dụng, thì nó là câu này:
 
@@ -122,29 +122,29 @@ Dưới đây là một số cách để giành được tài năng địa phư�
 
 **Hãy tiếp tục xây dựng đội ngũ tài năng của bạn.** Sử dụng các chiến thuật như đăng ký nhận thông báo việc làm (tất nhiên là có sự cho phép!), ổ chức các sự kiện tuyển dụng địa phương và mạng xã hội để xây dựng đội ngũ tài năng của bạn. Theo dõi sự phát triển của nhóm tài năng của bạn và chất lượng của các ứng cử viên được thêm vào .
 
-**Tương tác  nhóm tài năng của bạn.** Nhóm tài năng địa phương của bạn sẽ chỉ hữu ích với bạn NẾU ứng viên cảm thấy gắn bó và nhiệt tình khi làm việc với bạn. Sử dụng các kênh như email và SMS để giữ liên lạc với các tài nguyên tiềm năng trong nhóm tà.ng 
-
-xuyên nói với họ về các đặc quyền (như giảm giá hàng hóa của cửa hàng và hơn thế nữa) mà nhân viên của bạn nhận được.
+**Tương tác  nhóm tài năng của bạn.** Nhóm tài năng địa phương của bạn sẽ chỉ hữu ích với bạn NẾU ứng viên cảm thấy gắn bó và nhiệt tình khi làm việc với bạn. Sử dụng các kênh như email và SMS để giữ liên lạc với các tài nguyên tiềm năng trong nhóm. Thường xuyên nói với họ về các đặc quyền (như giảm giá hàng hóa của cửa hàng và hơn thế nữa) mà nhân viên của bạn nhận được.
 
 **Tối ưu hóa danh sách công việc của bạn để xếp hạng địa phương tốt hơn.** Vì tài năng địa phương thực hiện tìm kiếm công việc siêu cục bộ, bạn phải tối ưu hóa danh sách công việc của mình để xếp hạng tốt hơn cho bất kỳ từ khóa nào gợi ý tìm kiếm quảng cáo việc làm bán lẻ địa phương.
 
-Lợi ích tuyển dụng địa phương Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
+Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
 
 ## **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau**
 
-Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa hàng, điều này bổ sung thêm một chiều cho việc tuyển dụng của họ.
+Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa hàng, điều này bổ sung thêm một khía cạnh  cho việc tuyển dụng.
 
-Thuê cho nhiều cửa hàng là một thách thức vì rất nhiều lần các cửa hàng này (thường là nhượng quyền thuộc sở hữu của những người khác nhau), donith có một quy trình tuyển dụng tập trung.
+Thuê cho nhiều cửa hàng là một thách thức vì đa phần các đơn vị  (thường là nhượng quyền thuộc sở hữu của những người khác nhau) không  một quy trình tuyển dụng tập trung.
 
-Điều này thiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) mà mỗi cửa hàng xử lý việc thuê riêng của mình. Bây giờ, vì điều đó không khả thi đối với mọi cửa hàng bán lẻ của một công ty có nguồn nhân sự tại chỗ, việc tuyển dụng này thường được thực hiện bởi người quản lý cửa hàng, người có thể không xuất sắc như một nhà tuyển dụng.
+hiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) ỗi cửa hàng xử lý việc thuê nhân viên êng của mình. Bây giờ, vì điều đó không khả thi đối với mọi cửa hàng bán lẻ của một công ty có nguồn nhân sự tại chỗ, việc tuyển dụng này thường được thực hiện bởi người quản lý cửa hàng, người có thể không xuất sắc như một nhà tuyển dụng.
 
 Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển dụng bán lẻ này:
 
-Cố gắng thiết lập một quy trình tuyển dụng có cấu trúc. Bây giờ, không phải lúc nào cũng có thể thiết lập một quy trình tuyển dụng tập trung trên một chuỗi các cửa hàng, nhưng bạn có thể cố gắng cung cấp cho nó cấu trúc nhất định. Bắt đầu bằng cách sử dụng một ngăn xếp công nghệ tập trung hỗ trợ tuyển dụng nhiều địa điểm. Chỉ cần sử dụng cùng một nền tảng đánh giá ATS hoặc / và trước khi tuyển dụng, bạn sẽ có thể chuẩn hóa một phần lớn trong quy trình tuyển dụng của mình. Ngoài ra, hãy yêu cầu nhà tuyển dụng nội bộ của bạn tạo ra một vở kịch tuyển dụng và phân phối nó cho tất cả các cửa hàng của bạn.
+**Cố gắng thiết lập một quy trình tuyển dụng có cấu trúc**. Bây giờ, không phải lúc nào cũng có thể thiết lập một quy trình tuyển dụng tập trung trên một chuỗi các cửa hàng, nhưng bạn có thể cố gắng cung cấp cho nó cấu trúc nhất định. Bắt đầu bằng cách sử dụng một ngăn xếp công nghệ tập trung hỗ trợ tuyển dụng nhiều địa điểm. Chỉ cần sử dụng cùng một nền tảng đánh giá ATS hoặc / và trước khi tuyển dụng, bạn sẽ có thể chuẩn hóa một phần lớn trong quy trình tuyển dụng của mình. Ngoài ra, hãy yêu cầu nhà tuyển dụng nội bộ của bạn tạo ra một vở kịch tuyển dụng và phân phối nó cho tất cả các cửa hàng của bạn.
 
-Cung cấp đào tạo cho người quản lý cửa hàng của bạn. Để cải thiện kỹ năng tuyển dụng quản lý cửa hàng của bạn, hãy yêu cầu họ thực hiện một vài khóa tuyển dụng. Nếu có thể, hãy sắp xếp để họ tham dự các hội thảo tuyển dụng tập trung vào tuyển dụng bán lẻ. Hoặc ít nhất, hãy cho họ một vài cuốn sách tuyệt vời về việc tuyển dụng.
+**Cung cấp đào tạo cho người quản lý cửa hàng của bạn.** Để cải thiện kỹ năng tuyển dụng quản lý cửa hàng của bạn, hãy yêu cầu họ thực hiện một vài khóa tuyển dụng. Nếu có thể, hãy sắp xếp để họ tham dự các hội thảo tuyển dụng tập trung vào tuyển dụng bán lẻ. Hoặc ít nhất, hãy cho họ một vài cuốn sách tuyệt vời về việc tuyển dụng.
 
-Hãy giúp đỡ tuyển dụng có sẵn. Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các chuyên gia tư vấn tuyển dụng hấp dẫn để giúp họ trên trang web. Sắp xếp hỗ trợ tuyển dụng như vậy đã giành được chỉ cần cải thiện chất lượng tuyển dụng của bạn nhưng cũng sẽ hiệu quả về chi phí.
+**Hãy xây dựng kênh hỗ trợ tuyển .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung  chuên gia tư vấn tuyển dụng hấp dẫn để giúp họ trênt
+
+p xếp hỗ trợ tuyển dụng như vậy đã giành được chỉ cần cải thiện chất lượng tuyển dụng của bạn nhưng cũng sẽ hiệu quả về chi phí.
 
 Như bạn có thể nhận ra, một số thách thức tuyển dụng bán lẻ mà bạn phải đối mặt có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
 
