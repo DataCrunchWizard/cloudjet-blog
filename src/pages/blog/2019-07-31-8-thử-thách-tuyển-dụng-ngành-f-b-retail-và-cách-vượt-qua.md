@@ -108,23 +108,25 @@ Tính thời vụ này đặt ra một thách thức tuyển dụng lớn đối
 
 Ngoài ra, do hoạt động kinh doanh của tất cả các cửa hàng tăng lên trong thời gian này, sự cạnh tranh về tài năng địa phương trở nên siêu cao trong thời gian này.
 
-Mặc dù không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng không hẳn là không thể. Một vài tuyệt chiêu mà bạn có thể thực hiện để cải thiện tình hình như có kế hoạch tuyển dụng theo mùa, viết những mẫu quảng cáo thu  việnhân sự thời vụ, hắm đúng mục tiêu, bổ sung công cụ,...
+Mặc dù không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng không hẳn là không thể. Một vài tuyệt chiêu mà bạn có thể thực hiện để cải thiện tình hình như có kế hoạch tuyển dụng theo mùa, viết những mẫu quảng cáo thu  việnhân sự thời vụ, hắm đúng mục tiêu, bổ sung công cụ,..
 
-## **5. Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
+## **5. Cạnh tranh với những doanh nghiệp/cửa hàng tại địa phương**
 
-Khi nói đến trò chơi tuyển dụng bán lẻ, cùng một tài năng có sẵn cho tất cả các cửa hàng nằm trong cùng khu vực.
+Khi đến thời vụ của ngành bán lẻ, các nhà tuyển dụng có cùng một nguồn nhân lực trong khu vực.
 
 Điều đó có nghĩa là, các ứng cử viên địa phương của bạn có rất nhiều lựa chọn.
 
 Trừ khi bạn tìm cách tích cực xây dựng và thu hút một cơ sở tài năng địa phương, bạn sẽ bỏ lỡ cơ hội tốt nhất.
 
-Dưới đây, làm thế nào để giành được tài năng địa phương tốt nhất cho cửa hàng bán lẻ của bạn.
+Dưới đây là một số cách để giành được tài năng địa phương tốt nhất cho cửa hàng bán lẻ của bạn.
 
-Hãy tiếp tục xây dựng đội ngũ tài năng của bạn. Sử dụng các chiến thuật như đăng ký khách hàng của bạn để thông báo việc làm (tất nhiên là có sự cho phép!), Tổ chức các sự kiện tuyển dụng địa phương và mạng xã hội để xây dựng đội ngũ tài năng của bạn. Theo dõi sự phát triển của nhóm tài năng của bạn và chất lượng của các ứng cử viên được thêm vào nó.
+**Hãy tiếp tục xây dựng đội ngũ tài năng của bạn.** Sử dụng các chiến thuật như đăng ký nhận thông báo việc làm (tất nhiên là có sự cho phép!), ổ chức các sự kiện tuyển dụng địa phương và mạng xã hội để xây dựng đội ngũ tài năng của bạn. Theo dõi sự phát triển của nhóm tài năng của bạn và chất lượng của các ứng cử viên được thêm vào .
 
-Tham gia nhóm tài năng của bạn. Nhóm tài năng địa phương của bạn sẽ chỉ hữu ích với bạn NẾU ứng viên cảm thấy gắn bó và nhiệt tình khi làm việc với bạn. Sử dụng các kênh như email và SMS để giữ liên lạc với các tài nguyên tiềm năng trong nhóm tài năng của bạn. Thường xuyên nói với họ về các đặc quyền (như giảm giá hàng hóa của cửa hàng và hơn thế nữa) mà nhân viên của bạn nhận được.
+**Tương tác  nhóm tài năng của bạn.** Nhóm tài năng địa phương của bạn sẽ chỉ hữu ích với bạn NẾU ứng viên cảm thấy gắn bó và nhiệt tình khi làm việc với bạn. Sử dụng các kênh như email và SMS để giữ liên lạc với các tài nguyên tiềm năng trong nhóm tà.ng 
 
-Tối ưu hóa danh sách công việc của bạn để xếp hạng địa phương tốt hơn. Vì tài năng địa phương thực hiện tìm kiếm công việc siêu cục bộ, bạn phải tối ưu hóa danh sách công việc của mình để xếp hạng tốt hơn cho bất kỳ từ khóa nào gợi ý tìm kiếm quảng cáo việc làm bán lẻ địa phương.
+xuyên nói với họ về các đặc quyền (như giảm giá hàng hóa của cửa hàng và hơn thế nữa) mà nhân viên của bạn nhận được.
+
+**Tối ưu hóa danh sách công việc của bạn để xếp hạng địa phương tốt hơn.** Vì tài năng địa phương thực hiện tìm kiếm công việc siêu cục bộ, bạn phải tối ưu hóa danh sách công việc của mình để xếp hạng tốt hơn cho bất kỳ từ khóa nào gợi ý tìm kiếm quảng cáo việc làm bán lẻ địa phương.
 
 Lợi ích tuyển dụng địa phương Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
 
