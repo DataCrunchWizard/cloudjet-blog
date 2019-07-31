@@ -88,31 +88,27 @@ Bạn sẽ ngạc nhiên khi biết rằng một cuộc khảo sát với hơn m
 
 Điều này càng đúng với ngành bán lẻ.
 
-Nhà tuyển dụng Rời khỏi những người quản lý tồiHire và đào tạo những người quản lý mà nhân viên của bạn không muốn rời xa.
+Nhưng có một vài cách để khắc phục thách thức tuyển dụng "quản lý tồi":
 
-Nhưng có một vài cách để khắc phục thách thức tuyển dụng người quản lý xấu của tập tin trực tuyến, như sau:
+**Thuê quản lý cửa hàng tốt hơn.** Khi nói đến việc thuê quản lý cửa hàng, rất nhiều doanh nghiệp bán lẻ chỉ tìm kiếm các kỹ năng tổ chức. Mặc dù các kỹ năng tổ chức là điều kiện tiên quyết để ứng viên trở nên xuất sắc trong vai trò quản lý, nhưng bấy nhiêu vẫn chưa đủ (vì các nhà quản lý cũng cần phải giỏi trong việc quản lý con người). Vì vậy, khi tuyển dụng các nhà quản lý, hãy chú ý một số các kỹ năng như: EQ, khiếu hài hước, khả năng lắng nghe, xử lý vấn đề.... Chúng tôi sẽ chia sẻ thêm về chủ đề này trong loạt bài sau.
 
-**Thuê quản lý cửa hàng tốt hơn.** Khi nói đến việc thuê quản lý cửa hàng, rất nhiều doanh nghiệp bán lẻ chỉ tìm kiếm các kỹ năng tổ chức. Mặc dù các kỹ năng tổ chức là điều kiện tiên quyết để ứng viên trở nên xuất sắc trong vai trò quản lý, nhưng họ có thể không đủ (vì các nhà quản lý cũng cần phải giỏi trong việc quản lý con người). Vì vậy, khi tuyển dụng các nhà quản lý, hãy đánh giá họ về một vài trong số những người có kỹ năng này.
+**Đào tạo các nhà quản lý để trở nên tốt hơn trong công việc của họ.** Quản lý vi chi , phê bình quá mức, quản lý kém là những đặc điểm chung của các nhà quản lý tồi. Vì vậy, hãy xem liệu bạn có thể đưa ra các hoạt  ngày đào tạo, khóa học trực tuyến hoặc hội thảo để cải thiện kỹ năng của người quản lý cửa hàng của bạn, để họ có thể làm tốt hơn trong công việc.
 
-**Đào tạo các nhà quản lý để trở nên tốt hơn trong công việc của họ.** Quản lý vi mô, phê bình quá mức, quản lý kém là những đặc điểm chung của các nhà quản lý tồi. Vì vậy, hãy xem liệu bạn có thể đưa ra các điều khoản như ngày đào tạo, khóa học trực tuyến hoặc hội thảo để cải thiện kỹ năng của người quản lý cửa hàng của bạn, để họ có thể làm tốt hơn trong công việc.
+**Biến những nhà quản lý của bạn thành "Người thực thi" (Doers).** Nhân viên thường nhận định là quản lý chẳng làm gì ngoài quản lý. Họ không trực tiếp ở khu vực bán hàng hay tham gia công tác hậu cần. Vì vậy, hãy tìm hiểu xem bạn có thể giúp người quản lý của mình thực sự tham gia vào công việc không (thay vì chỉ quản lý). Điều này rất quan trọng vì khi nhân viên bán lẻ của bạn nhìn thấy một người quản lý rất tích cực, họ cảm thấy được truyền cảm hứng để làm tốt nhất công việc của họ!
 
-**Biến những nhà quản lý của bạn làm Doers.** Vì vậy, hãy tìm hiểu xem bạn có thể giúp người quản lý của mình thực sự tham gia vào công việc không (thay vì chỉ quản lý). Điều này rất quan trọng vì khi nhân viên bán lẻ của bạn nhìn thấy một người quản lý rất tích cực, họ cảm thấy được truyền cảm hứng để làm công việc tốt nhất của họ!
-
-## 4. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
+## 4. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính  thời vụ**
 
 Tính thời vụ là phổ biến trong các doanh nghiệp bán lẻ. Một số doanh nghiệp nhận được nhiều doanh số hơn trước Giáng sinh, trong khi những doanh nghiệp khác trong mùa hè.
 
-Điều đó có nghĩa là, nhu cầu nhân sự của các doanh nghiệp bán lẻ khá biến động (mặc dù bạn có thể ước tính hợp lý số lượng bàn tay phụ của bạn. Bạn sẽ cần phải sống sót vội vàng và kiếm được nhiều doanh thu nhất).
+Điều đó có nghĩa là, nhu cầu nhân sự của các doanh nghiệp bán lẻ khá biến động (mặc dù bạn có thể ước tính hợp lý số lượng "bàn tay phụ" bạn cần để sống sót qua giai đoạn cao  và kiếm được nhiều doanh thu nhất).
 
-Tính thời vụ này đặt ra một thách thức tuyển dụng lớn đối với các cửa hàng bán lẻ vì nó cần một loại tuyển dụng chuyên biệt gọi là thuê khối lượng cao. Việc thuê khối lượng lớn về cơ bản có nghĩa là thuê nhiều nhân viên trong một khoảng thời gian ngắn.
+Tính thời vụ này đặt ra một thách thức tuyển dụng lớn đối với các cửa hàng bán lẻ vì nó cần một loại tuyển dụng chuyên biệt gọi là "Tuyển dụng số lượng lớn". Điều  về cơ bản có nghĩa là thuê nhiều nhân viên trong một khoảng thời gian ngắn.
 
-Đôi khi, thách thức tuyển dụng khối lượng lớn này trở nên tồi tệ hơn nếu các nhân viên bán lẻ thông thường (người đã quen với khối lượng công việc tăng lên) cuối cùng đã bỏ việc vì nó.
+Đôi khi, thách thức tuyển dụng số  lớn này trở nên tồi tệ hơn nếu các nhân viên bán lẻ thông thường (người không quen với việc tăng lượng công việc) ối cùng đã bỏ việc vì điều đó. 
 
 Ngoài ra, do hoạt động kinh doanh của tất cả các cửa hàng tăng lên trong thời gian này, sự cạnh tranh về tài năng địa phương trở nên siêu cao trong thời gian này.
 
-Theo Snag, hầu hết các nhà bán lẻ phải đối mặt với việc thiếu công nhân có trình độ và có sẵn, cũng như cạnh tranh với các nhà tuyển dụng khác trong mùa lễ 2018.
-
- Mặc dù nó không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng chắc chắn là không thể. Chúng tôi đã xuất bản một hướng dẫn chuyên sâu về việc đánh bại thách thức tuyển dụng bán lẻ theo mùa tại đây. Kiểm tra nó ngay bây giờ và bạn sẽ tiếp tục tìm kiếm những tài năng địa phương tốt nhất cho cửa hàng của bạn trong tất cả các mùa bận rộn trong năm nay. Tìm hiểu các chiến thuật có thể hành động để tạo kế hoạch tuyển dụng theo mùa, viết quảng cáo việc làm theo mùa, nhắm mục tiêu đúng nhân khẩu học, và nhiều hơn nữa.
+Mặc dù không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng không hẳn là không thể. Một vài tuyệt chiêu mà bạn có thể thực hiện để cải thiện tình hình như có kế hoạch tuyển dụng theo mùa, viết những mẫu quảng cáo thu  việnhân sự thời vụ, hắm đúng mục tiêu, bổ sung công cụ,...
 
 ## **5. Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
 
