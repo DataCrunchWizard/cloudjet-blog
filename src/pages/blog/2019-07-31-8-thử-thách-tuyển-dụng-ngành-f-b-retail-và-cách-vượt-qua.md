@@ -37,7 +37,7 @@ Ngành bán lẻ là một trong năm ngành có tỷ lệ nghỉ việc nhân v
 
 Ở thị trường Mỹ, chi phí tuyển dụng & đào tạo trung bình cho mỗi vị trí là [$ 3,328](https://www.retailwire.com/discussion/eight-reasons-why-retail-employee-turnover-is-so-high/); tương tự như vậy, ở Việt Nam quá trình tuyển dụng và đào tạo thay thế rất tốn kém - ngay cả đối với một công việc bán lẻ cấp thấp nhất với thù lao 15 000 - 20 000 VND/giờ. 
 
-Vì thế, tỉ lệ nghĩ việc cao làm hao tổn chi phí cực lớn cho các doanh nghiệp F&B và Retail. Vậy đâu là nguyên nhân của vấn đề này? 
+Vì thế, tỉ lệ nghỉ việc cao làm hao tổn chi phí cực lớn cho các doanh nghiệp F&B và Retail. Vậy đâu là nguyên nhân của vấn đề này? 
 
 Vâng, **có nhiều lý do.**
 
@@ -45,14 +45,14 @@ Vâng, **có nhiều lý do.**
 
 Dù vấn đề là gì, có một vài cách dứt khoát để giải quyết những thách thức ngày. Đây là ba giải pháp mà bạn có thể bắt đầu ngay. 
 
-**Hiểu lý thật rõ lý do nghĩ việc**. Cách chắc chắn nhất để làm giảm tỉ lệ nghỉ việc của nhân viên trong cửa hàng của bạn là chặn lại các lỗ "rò rĩ" đang diễn ra. Và tất cả những gì cần làm để tìm ra lý do nhân viên của bạn nghĩ việc đó là tiến hành phỏng vấn sau nghĩ việc (exit interviews). Chỉ cần hỏi [năm câu hỏi ](https://www.forbes.com/sites/adp/2017/12/14/are-you-asking-these-5-essential-exit-interview-questions/#6116f8053f38)đơn giản bên dưới và bạn sẽ hiểu rõ sâu sắc để giảm bớt những trường hợp như vậy trong tương lai:
+**Hiểu lý thật rõ lý do ngh việc**. Cách chắc chắn nhất để làm giảm tỉ lệ nghỉ việc của nhân viên trong cửa hàng của bạn là chặn lại các lỗ "rò r" đang diễn ra. Và tất cả những gì cần làm để tìm ra lý do nhân viên của bạn ngh việc đó là tiến hành phỏng vấn sau nghỉ việc (exit interviews). Chỉ cần hỏi [năm câu hỏi ](https://www.forbes.com/sites/adp/2017/12/14/are-you-asking-these-5-essential-exit-interview-questions/#6116f8053f38)đơn giản bên dưới và bạn sẽ hiểu rõ sâu sắc để giảm bớt những trường hợp như vậy trong tương lai:
 
 ![](/img/ebk2.jpg)
 
 \
 Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-sao-nhan-vien-cua-ban-nghi-viec)
 
-> (1) Tại sau bạn quyết định rời công ty
+> (1) Tại sau bạn quyết định rời công ty?
 >
 > (2) Trách nhiệm & yêu cầu của công việc có phù hợp với mong chờ của bạn?
 >
@@ -60,15 +60,15 @@ Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-s
 >
 > (4) Điều gì bạn thích nhất khi làm việc ở đây?
 >
-> (5) Điều gì khiến bạn không hài lòng nhất khi làm việc ở  ? 
+> (5) Điều gì khiến bạn không hài lòng nhất khi làm việc ở đây? 
 
 Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai/)
 
 **Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, tỉ lệ nghỉ việc cao là kết quả trực tiếp của việc thiếu chiến lược giữ chân nhân viên. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp  phù hợp, những phúc lợi đặc biệt ([nhưng chi phí thấp](https://www.thebalancesmb.com/low-cost-perks-retail-employees-2890448)) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ nghỉ việc
 
-**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng được xây dựng một cách thận trọng không chỉ đóng vai trò lớn trong việc làm giảm tỉ lệ nghỉ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
+**Thiết kế những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng được xây dựng một cách thận trọng không chỉ đóng vai trò lớn trong việc làm giảm tỉ lệ nghỉ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
 
-## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng yêu** 
+## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng yêu**
 
 Không giống như hầu hết các công việc từ các ngành công nghiệp khác, các công việc bán lẻ không nhất thiết phải nhắm đến một trình độ chuyên môn, nền tảng giáo dục hoặc kinh nghiệm cụ thể. Điều này có nghĩa là những người có trình độ học vấn và trình độ kinh nghiệm khác nhau đều có thể phù . Mặc dù đây là một điều tuyệt vời, nhưng nó khiến việc xác định những ứng viên ù hợp nhất trở nên khó khăn khi bạn không có một chân dung ứng viên lý tưởng để so sánh. 
 
@@ -128,11 +128,11 @@ Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng
 
 ## **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau**
 
-Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa hàng, điều này bổ sung thêm một khía cạnh  cho việc tuyển dụng.
+Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa hàng, điều này bổ sung thêm một khía cạnh khác cho việc tuyển dụng.
 
 Thuê cho nhiều cửa hàng là một thách thức vì đa phần các đơn vị  (thường là nhượng quyền thuộc sở hữu của những người khác nhau) không  một quy trình tuyển dụng tập trung.
 
-hiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) ỗi cửa hàng xử lý việc thuê nhân viên êng của mình. Bây giờ, vì điều đó không khả thi đối với mọi cửa hàng bán lẻ của một công ty có nguồn nhân sự tại chỗ, việc tuyển dụng này thường được thực hiện bởi người quản lý cửa hàng, người có thể không xuất sắc như một nhà tuyển dụng.
+hiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) ỗi cửa hàng tự xử lý việc thuê nhân viên êng của mình. Bây giờ, vì điều đó không khả thi đối với mọi cửa hàng bán lẻ của một công ty có nguồn nhân sự tại chỗ, việc tuyển dụng này thường được thực hiện bởi người quản lý cửa hàng, người có thể không xuất sắc như một nhà tuyển dụng.
 
 Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển dụng bán lẻ này:
 
@@ -140,10 +140,10 @@ Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển
 
 **Cung cấp đào tạo cho người quản lý cửa hàng của bạn.** Để cải thiện kỹ năng tuyển dụng quản lý cửa hàng của bạn, hãy yêu cầu họ thực hiện một vài khóa tuyển dụng. Nếu có thể, hãy sắp xếp để họ tham dự các hội thảo tuyển dụng tập trung vào tuyển dụng bán lẻ. Hoặc ít nhất, hãy cho họ một vài cuốn sách tuyệt vời về việc tuyển dụng.
 
-**Hãy xây dựng kênh hỗ trợ tuyển  .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung  chuên gia tư vấn tuyển dụng hấp dẫn để giúp họ trêtại chỗ nhằm cần cải thiện chất lượng tuyển dụng và  hiệu quả về chi phí.
+**Hãy xây dựng kênh hỗ trợ tuyển  .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung chuên gia tư vấn tuyển dụng hấp dẫn để giúp họ tại chỗ nhằm cần cải thiện chất lượng tuyển dụng và  hiệu quả về chi phí.
 
-Như bạn có thể nhận ra, một số thách thức tuyển dụng bán lẻ mà bạn phải đối mặt có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
+Như bạn có thể nhận ra, một số thách thức tuyển dụng cơ  mà bạn phải đối mặt đã có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
 
 Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng thì nghiêm trọng hơn và  có bất kỳ giải pháp tức thời nào.
 
-Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng bán lẻ có các yếu tố trong những điều này và nhiều. Loạt bài tiếp theo sẽ truyền thêm cảm hứng cho bạn, hãy chờ nhé!
+Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng bán lẻ có các yếu tố trong những điều này và nhiều hơn thế . Loạt bài tiếp theo sẽ truyền thêm cảm hứng cho bạn, hãy chờ nhé!
