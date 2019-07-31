@@ -26,7 +26,6 @@ Khi bạn điều hành một cửa hàng bán lẻ hoặc F&B (hoặc một chu
 3. **Thuê những nhà quản lý tốt hơn**
 4. **Tinh chỉnh chiến lược tuyển dụng phù hợp tính thời vụ**
 5. **Cạnh tranh đối với những doanh nghiệp/cửa hàng tại địa phương**
-6. **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi Tuyển dụng ở nhiều địa điểm khác nhau** 
 
 
 
