@@ -54,7 +54,7 @@ Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-s
 
 > (1) Tại sau bạn quyết định rời công ty
 >
-> (2) Trách nhiệm & êu cầu của công việc có phù hợp với mong chờ của bạn?
+> (2) Trách nhiệm & yêu cầu của công việc có phù hợp với mong chờ của bạn?
 >
 > (3) Bạn có đầy đủ công cụ và nguồn lực phù hợp để làm việc hiệu quả không? 
 >
@@ -64,9 +64,9 @@ Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-s
 
 Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai/)
 
-**Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, tỉ lệ tỉ lệ nghỉ việc cao là kết quả trực tiếp của việc thiếu chiến lược giữ chân nhân viên. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp  phù hợp, những phúc lợi đặc biệt ([nhưng chi phí thấp](https://www.thebalancesmb.com/low-cost-perks-retail-employees-2890448)) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ ngh việc
+**Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, tỉ lệ nghỉ việc cao là kết quả trực tiếp của việc thiếu chiến lược giữ chân nhân viên. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp  phù hợp, những phúc lợi đặc biệt ([nhưng chi phí thấp](https://www.thebalancesmb.com/low-cost-perks-retail-employees-2890448)) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ nghỉ việc
 
-**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng được xây  chu một cách thận trọng không chỉ đóng vai trò lớn trong việc làm giảm tỉ lệ ngh việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
+**Thiết kế  những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng được xây dựng một cách thận trọng không chỉ đóng vai trò lớn trong việc làm giảm tỉ lệ nghỉ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
 
 ## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng yêu**
 
