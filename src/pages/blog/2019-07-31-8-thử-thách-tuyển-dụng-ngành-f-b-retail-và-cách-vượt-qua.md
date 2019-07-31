@@ -62,8 +62,6 @@ Nguồn: [Brandsvietnam](https://www.brandsvietnam.com/congdong/topic/14153-Vi-s
 >
 > (5) Điều gì khiến bạn không hài lòng nhất khi làm việc ở  ? 
 
-
-
 Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai/)
 
 **Xây dựng chiến lược giữ chân nhân tài.** Đôi khi, tỉ lệ tỉ lệ nghỉ việc cao là kết quả trực tiếp của việc thiếu chiến lược giữ chân nhân viên. Bạn sẽ ngạc nhiên khi biết rằng những điều đơn giản như cơ hội thăng tiến nghề nghiệp  phù hợp, những phúc lợi đặc biệt ([nhưng chi phí thấp](https://www.thebalancesmb.com/low-cost-perks-retail-employees-2890448)) và văn hóa công ty tốt hơn có thể làm giảm đáng kể tỷ lệ ngh việc
@@ -142,12 +140,10 @@ Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển
 
 **Cung cấp đào tạo cho người quản lý cửa hàng của bạn.** Để cải thiện kỹ năng tuyển dụng quản lý cửa hàng của bạn, hãy yêu cầu họ thực hiện một vài khóa tuyển dụng. Nếu có thể, hãy sắp xếp để họ tham dự các hội thảo tuyển dụng tập trung vào tuyển dụng bán lẻ. Hoặc ít nhất, hãy cho họ một vài cuốn sách tuyệt vời về việc tuyển dụng.
 
-**Hãy xây dựng kênh hỗ trợ tuyển .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung  chuên gia tư vấn tuyển dụng hấp dẫn để giúp họ trênt
-
-p xếp hỗ trợ tuyển dụng như vậy đã giành được chỉ cần cải thiện chất lượng tuyển dụng của bạn nhưng cũng sẽ hiệu quả về chi phí.
+**Hãy xây dựng kênh hỗ trợ tuyển  .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung  chuên gia tư vấn tuyển dụng hấp dẫn để giúp họ trêtại chỗ nhằm cần cải thiện chất lượng tuyển dụng và  hiệu quả về chi phí.
 
 Như bạn có thể nhận ra, một số thách thức tuyển dụng bán lẻ mà bạn phải đối mặt có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
 
-Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng cao hơn thì nghiêm trọng hơn và don có bất kỳ giải pháp tức thời nào.
+Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng thì nghiêm trọng hơn và  có bất kỳ giải pháp tức thời nào.
 
-Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng bán lẻ có các yếu tố trong những điều này và nhiều hơn nữa. Dưới đây là một số lời khuyên tuyệt vời để xây dựng chiến lược tuyển dụng bán lẻ chiến thắng cho năm 2019, trong trường hợp bạn cần nguồn cảm hứng.
+Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng bán lẻ có các yếu tố trong những điều này và nhiều. Loạt bài tiếp theo sẽ truyền thêm cảm hứng cho bạn, hãy chờ nhé!
