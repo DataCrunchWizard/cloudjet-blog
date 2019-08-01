@@ -148,14 +148,16 @@ Thiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) 
 
 Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển dụng bán lẻ này:
 
-**Cố gắng thiết lập một quy trình tuyển dụng có cấu trúc**. Bây giờ, không phải lúc nào cũng có thể thiết lập một quy trình tuyển dụng tập trung trên một chuỗi các cửa hàng, nhưng bạn có thể cố gắng cung cấp cho nó cấu trúc nhất định. Bắt đầu bằng cách sử dụng một ngăn xếp công nghệ tập trung hỗ trợ tuyển dụng nhiều địa điểm. Chỉ cần sử dụng cùng một nền tảng tuyển dụng ATS hoặc / và trước khi tuyển dụng, bạn sẽ có thể chuẩn hóa một phần lớn trong quy trình tuyển dụng của mình. Ngoài ra, hãy yêu cầu nhà tuyển dụng nội bộ của bạn tạo ra một vở kịch tuyển dụng và phân phối nó cho tất cả các cửa hàng của bạn.
+![Quy trình tuyển dụng Kanban](/img/feature_1.jpg "Quy trình tuyển dụng Kanban")
+
+> Hình: Quy trình tuyển dụng theo mô hình Kanban trực quan của Cloudjet Potential
+
+**Cố gắng thiết lập một quy trình tuyển dụng có cấu trúc**. Bây giờ, không phải lúc nào cũng có thể thiết lập một quy trình tuyển dụng tập trung trên một chuỗi các cửa hàng, nhưng bạn có thể cố gắng cung cấp cho nó cấu trúc nhất định. Bắt đầu bằng cách sử dụng một ngăn xếp công nghệ tập trung hỗ trợ tuyển dụng nhiều địa điểm. Chỉ cần sử dụng cùng một nền tảng tuyển dụng ATS hoặc / và trước khi tuyển dụng, bạn sẽ có thể chuẩn hóa một phần lớn trong quy trình tuyển dụng của mình. Ngoài ra, hãy yêu cầu nhà tuyển dụng nội bộ của bạn tạo ra một kịch bản tuyển dụng và phân phối nó cho tất cả các cửa hàng của bạn.
 
 **Cung cấp đào tạo cho người quản lý cửa hàng của bạn.** Để cải thiện kỹ năng tuyển dụng quản lý cửa hàng của bạn, hãy yêu cầu họ thực hiện một vài khóa tuyển dụng. Nếu có thể, hãy sắp xếp để họ tham dự các hội thảo tuyển dụng tập trung vào tuyển dụng bán lẻ. Hoặc ít nhất, hãy cho họ một vài cuốn sách tuyệt vời về việc tuyển dụng.
 
-**Hãy xây dựng kênh hỗ trợ tuyển dụng  .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung chuyên gia tư vấn tuyển dụng hấp dẫn để giúp họ nhằm cần cải thiện chất lượng tuyển dụng và  hiệu quả về chi phí.
+**Hãy xây dựng kênh hỗ trợ tuyển dụng  .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung chuyên gia tư vấn tuyển dụng hấp dẫn để giúp họ nhằm cần cải thiện chất lượng tuyển dụng và  hiệu quả về chi phí. 
 
-Như bạn có thể nhận ra, một số thách thức tuyển dụng cơ  mà bạn phải đối mặt đã có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
+Như bạn có thể nhận ra, một số thách thức tuyển dụng cơ  mà bạn phải đối mặt đã có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn. Bạn có thể tạo 1 group chat để các cửa hàng trưởng có thể trao đổi, chia sẻ về những kinh nghiệm tuyển dụng hoặc cập nhật nhanh những vấn đề, kinh nghiệm mới nhất. 
 
-Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng thì nghiêm trọng hơn và có bất kỳ giải pháp tức thời nào.
-
-Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng có các yếu tố trong những điều này và nhiều hơn thế.
+Để giải quyết những thách thức tuyển dụng trong ngành Bán lẻ và F&B, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng có các yếu tố trong bài viết nàyu này và nhiều hơn thế nữa.
