@@ -14,9 +14,9 @@ tags:
   - Tuyển dụng
   - website tuyển dụng
 ---
-Với cách nghĩ thông thường, chúng ta đều cho rằng ứng viên cần làm tốt việc xây dựng một CV thật đẹp, trả lời phỏng vấn để nổi trội hơn trong tuyển dụng. Tuy nhiên, ít ai nhận thấy việc  tuyển dụng là một quan hệ hai chiều: ứng viên phải chứng minh được mình là lựa chọn tốt nhất cho nhà tuyển dụng, và doanh nghiêp cũng phải cho những nhân tài nhận thấy công ty mình là một "Miền đất hứa".
+Với cách nghĩ thông thường, chúng ta đều cho rằng ứng viên cần làm tốt việc xây dựng một CV thật đẹp, trả lời phỏng vấn thật  để nổi trội hơn trong tuyển dụng. Tuy nhiên, ít ai nhận thấy việc  tuyển dụng là một quan hệ hai chiều: ứng viên phải chứng minh được mình là lựa chọn tốt nhất cho nhà tuyển dụng, và doanh nghiêp cũng phải cho những nhân tài nhận thấy công ty mình là một "Miền đất hứa".
 
-Để có được những nhân tài thực thụ, doanh nghiệp cần có những chiến lược đặc biệt từ khâu thu hút, tuyển dụng, đào tạo và giữ chân những thành viên sáng giá. Nhiều doanh nghiệp chọn cách tuyển dụng thông qua trung gian, các đơn vị cung cấp lao động, có doanh nghiệp lại bắt đầu nuôi gà chiến từ lúc mới ra trường thông qua các chương trình Quản trị viên tập sự, hoặc đưa ra các chính sách tu nghiệp nước ngoài... Tuy nhiên, tất cả những biện pháp này đều bắt đầu từ một việc đơn giản: Xây dựng kênh quảng bá, tương tác với ứng viên thông qua Website Tuyển Dụng. Hãy xem một website tuyển dụng chỉnh  giúp được gì cho doanh nghiệp:
+Để có được những nhân tài thực thụ, doanh nghiệp cần có những chiến lược đặc biệt từ khâu thu hút, tuyển dụng, đào tạo và giữ chân những thành viên sáng giá. Nhiều doanh nghiệp chọn cách tuyển dụng thông qua trung gian, các đơn vị cung cấp lao động, có doanh nghiệp lại bắt đầu nuôi gà chiến từ lúc mới ra trường thông qua các chương trình Quản trị viên tập sự, hoặc đưa ra các chính sách đào tạo, tu nghiệp nước ngoài, và tất nhiên phải kể tới chế độ đãi ngộ hấp dẫn... Tuy nhiên, để truyền đạt những điều hay ho này thì doanh nghiệp phải có một kênh thông tin chính thức và đơn giản nhất là: ebsite Tuyển Dụng. HVậy chúng ta ãy xem một website tuyển dụng chỉnh   giúp được gì cho doanh nghiệp:
 
 1. HÌNH ẢNH CHUYÊN NGHIỆP
 
