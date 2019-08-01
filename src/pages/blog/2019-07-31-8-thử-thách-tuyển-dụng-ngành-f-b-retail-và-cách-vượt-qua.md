@@ -136,7 +136,7 @@ Dưới đây là một số cách để giành được tài năng địa phư�
 
 ![](/img/screen-shot-2019-08-01-at-10.51.41-am.png)
 
-Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
+Dù chúng ta có thích hay không, khoảng cách đi lại có ảnh hưởng đến việc giữ chân nhân viên. Đó là lý do tại sao thuê tại địa phương là một cách tốt để thuê nhân viên dài hạn, ngay cả khi điều đó có nghĩa là cạnh tranh cho họ.
 
 ## **Giảm thiểu những công việc lặp đi lặp lại chiếm phần lớn thời gian của nhà tuyển dụng khi tuyển dụng ở nhiều địa điểm khác nhau**
 
