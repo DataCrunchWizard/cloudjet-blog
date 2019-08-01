@@ -45,7 +45,7 @@ Vâng, **có nhiều lý do.**
 
 Dù vấn đề là gì, có một vài cách dứt khoát để giải quyết những thách thức ngày. Đây là ba giải pháp mà bạn có thể bắt đầu ngay. 
 
-**Hiểu lý thật rõ lý do ngh việc**. Cách chắc chắn nhất để làm giảm tỉ lệ nghỉ việc của nhân viên trong cửa hàng của bạn là chặn lại các lỗ "rò r" đang diễn ra. Và tất cả những gì cần làm để tìm ra lý do nhân viên của bạn ngh việc đó là tiến hành phỏng vấn sau nghỉ việc (exit interviews). Chỉ cần hỏi [năm câu hỏi ](https://www.forbes.com/sites/adp/2017/12/14/are-you-asking-these-5-essential-exit-interview-questions/#6116f8053f38)đơn giản bên dưới và bạn sẽ hiểu rõ sâu sắc để giảm bớt những trường hợp như vậy trong tương lai:
+**Hiểu lý thật rõ lý do nghỉ việc**. Cách chắc chắn nhất để làm giảm tỉ lệ nghỉ việc của nhân viên trong cửa hàng của bạn là chặn lại các lỗ "rò r" đang diễn ra. Và tất cả những gì cần làm để tìm ra lý do nhân viên của bạn nghỉ việc đó là tiến hành phỏng vấn sau nghỉ việc (exit interviews). Chỉ cần hỏi [năm câu hỏi ](https://www.forbes.com/sites/adp/2017/12/14/are-you-asking-these-5-essential-exit-interview-questions/#6116f8053f38)đơn giản bên dưới và bạn sẽ hiểu rõ sâu sắc để giảm bớt những trường hợp như vậy trong tương lai:
 
 ![](/img/ebk2.jpg)
 
