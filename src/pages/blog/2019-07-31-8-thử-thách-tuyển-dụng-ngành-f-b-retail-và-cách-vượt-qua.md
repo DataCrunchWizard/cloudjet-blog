@@ -76,6 +76,14 @@ Ngoài ra, bởi vì nhân viên bán lẻ luôn tương tác với khách hàng
 
 Đáng buồn thay, không có cách nào chắc chắn sẽ giải quyết vấn đề đau đầu  của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Đơn giản nhất là bạn nên tham khảo các cách đánh giá ứng viên cho từng kỹ năng sau đó thiết lập thang điểm đánh giá chi tiết từng hạng mục để tránh cảm tính và thiếu rõ ràng.
 
+![](/img/feature_2.jpg)
+
+> Hình: Tính năng đánh giá ứng viên của Cloudjet Potential
+
+Ngoài ra, một vấn đề không kém phần quan trọng sau khi có bộ tiêu chí, đó là việc đánh giá cần được dễ dàng thực hiện một cách nhanh chóng, thay vì phải in ra giấy cho người phỏng vấn rồi phải tổng hợp lại mất nhiều thời gian. Người phỏng vấn cần có thể đánh giá ngay ứng viên theo những tiêu chí đã được định sẵn. Việc sử dụng một [hệ thống ATS](https://help.cloudjetpotential.com/) là khá cần thiết vì nó thường giúp lưu trữ được lịch sử đánh giá, quá trình tương tác và dễ dàng truy xuất dễ dàng. 
+
+
+
 ## **3. Thuê những nhà quản lý giỏi**
 
 Nếu có một câu có thể diễn tả chính xác vấn đề tuyển dụng, thì nó là câu này:
