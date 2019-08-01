@@ -22,11 +22,11 @@ Với cách nghĩ thông thường, chúng ta đều cho rằng ứng viên cầ
 
 Nếu oanh nghiệp có một nguồn ứng viên tiềm năng lớn trên thị trường lao động, những ứng viên chất cũng có không ít những bến đỗ hấp dẫn. Vì vậy, để tạo sự khác biệt, doanh nghiệp cần giới thiệu cho ứng viên biết về công ty, về môi trường, văn hoá, phúc lợi đặc biệt mà chỉ có doanh nghiệp đó mới có. heo Roberson et al. (2005) thì các thông tin tuyển dụng làm nổi bật sự nhận biết về các đặc trưng của tổ chức và sự phù hợp giữa con người – tổ chức ảnh hưởng tốt đến dự định nộp đơn của ứng viên. Vì vậy, xây dựng hình ảnh doanh nghiệp là yếu tố đầu tiên để thu hút tài năng cho doanh nghiệp.
 
-![](/img/screen-shot-2019-07-16-at-9.39.04-pm.png)
+![](/img/screen-shot-2019-07-16-at-9.39.04-pm.png "Xây dựng hình ảnh chuyên nghiệp để thu hút ứng viên")
 
 2. GIÚP ỨNG VIÊN HIỂU THÊM VỀ VĂN HOÁ DOANH NGHIỆPMột trong những yếu tố quyết định giúp ứng viên hứng thú tham gia vào quy trình tuyển dụng, mặc dù khắt khe đó là Văn hoá doanh nghiệp. Những hình ảnh về cuộc sống thực tế, những hoạt động nội bộ và các khoảnh khắc đời thường sẽ ảnh hưởng trực tiếp tới mong muốn được tham gia và trở thành một thành viên trong tổ chức đó.
 
-![](/img/culture.jpeg)
+![](/img/culture.jpeg "Văn hoá doanh nghiệp sẽ là yếu tố quan trọng trong quyết định lựa chọn công việc của ứng viên")
 
 3. QUẢN LÝ TỐT DANH SÁCH TUYỂN DỤNG
 
