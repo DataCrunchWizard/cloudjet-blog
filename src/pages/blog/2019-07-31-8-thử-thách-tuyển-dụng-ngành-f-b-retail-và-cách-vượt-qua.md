@@ -160,4 +160,10 @@ Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển
 
 Như bạn có thể nhận ra, một số thách thức tuyển dụng cơ  mà bạn phải đối mặt đã có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn. Bạn có thể tạo 1 group chat để các cửa hàng trưởng có thể trao đổi, chia sẻ về những kinh nghiệm tuyển dụng hoặc cập nhật nhanh những vấn đề, kinh nghiệm mới nhất. 
 
-Để giải quyết những thách thức tuyển dụng trong ngành Bán lẻ và F&B, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng có các yếu tố trong bài viết nàyu này và nhiều hơn thế nữa. Một trong những vấn đề then chốt để tối ưu hiệu quả, giúp bạn tuyển nhanh hơn, đó là giảm thiệu các công việc hành chính như: gửi email, lên lịch phỏng vấn, tìm kiếm thông tin ứng viên, giao việc liên quan tới ứng viên, chia sẻ hiện trạng, số lượng hồ sơ mới với các bên liên quan... đó là sở hữu một hệ thống ATS (Applicant Tracking System) đủ tốt và dễ sử dụng.
+Để giải quyết những thách thức tuyển dụng trong ngành Bán lẻ và F&B, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng có các yếu tố trong bài viết nàyu này và nhiều hơn thế nữa. Một trong những vấn đề then chốt để tối ưu hiệu quả, giúp bạn tuyển nhanh hơn, đó là giảm thiệu các công việc hành chính như: gửi email, lên lịch phỏng vấn, tìm kiếm thông tin ứng viên, giao việc liên quan tới ứng viên, chia sẻ hiện trạng, số lượng hồ sơ mới với các bên liên quan... đó là sở hữu một hệ thống ATS (Applicant Tracking System) đủ tốt và dễ sử dụng. 
+
+## Đăng ký tư vấn sử dụng hệ thống ATS của Cloudjet Potential 
+
+Cloudjet sẽ sẵn sàng giúp bạn giải quyết nhiều vấn đề trong tuyển dụng, hãy đăng ký vào form bên dưới để nhận được Demo của chúng tôi và tìm hiểu những giá trị thiết thực mà Cloudjet Potential có thể giúp bạn. 
+
+<iframe  frameborder="0" width="450" height="400" src="//www.saleupcrm.com/subscribe/5ccfe5e998e7e224199e3eba1efbee07/" id="cjsform-1564565883" ></iframe>
