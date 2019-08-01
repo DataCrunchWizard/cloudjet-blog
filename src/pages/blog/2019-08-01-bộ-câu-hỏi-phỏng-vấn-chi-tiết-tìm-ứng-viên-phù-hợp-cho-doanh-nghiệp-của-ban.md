@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Bộ câu hỏi phỏng vấn chi tiết tìm ứng viên phù hợp cho doanh nghiệp của ban
+title: Ebook Bộ câu hỏi phỏng vấn tìm ứng viên sáng giá trong thời gian ngắn
 date: 2019-08-01T04:10:31.813Z
 description: >
   Một trong những vấn đề nhức nhối của việc tuyển dụng đó là cảm tính trong quá
@@ -14,11 +14,11 @@ tags:
 ---
 ![](/img/cau-hoi-cho-vong-phong-van-cuoi-cung-2-1-.png)
 
-Vậy làm thế nào để bạn có được 1 cuộc phỏng vấn chất lượng diễn ra trong thời gian ngắn và hơn hết chỉ trong quá trình phỏng vấn 30 phút, bạn có thể xác định được người phù hợp với công ty mình.
+Vậy làm thế nào để bạn có được một cuộc phỏng vấn chất lượng, diễn ra trong thời gian ngắn và hơn hết chỉ trong quá trình phỏng vấn 30 phút, bạn có thể xác định được người phù hợp với công ty mình.
 
-Ebook Hướng dẫn phỏng vấn sẽ là bí kíp mà bạn đang tìm kiếm bấy lâu.
+Ebook "Hướng dẫn phỏng vấn - Bộ câu hỏi phỏng vấn" sẽ là bí kíp mà bạn đang tìm kiếm bấy lâu.
 
-Ngoài ra, nếu như ban quá tốn thời gian cho việc thực hiện các thao tác thủ công trong quá trình tuyển dụng như xử lý hồ sơ ứng viên, liên hê ứng viên, đặt lịch hẹn thì hãy để Cloudjet Potential có thể trở thành trợ thủ đắc lưc nhất cho bạn trong quá trình thưc hiện công việc tuyển dụng. 
+Ngoài ra, nếu như bạn tốn quá nhiều thời gian cho việc thực hiện các thao tác thủ công trong quá trình tuyển dụng như xử lý hồ sơ ứng viên, liên hê ứng viên, đặt lịch hẹn, báo cáo hiệu quả tuyển dụng thì hãy để Cloudjet Potential có thể trở thành trợ thủ đắc lưc nhất giúp bạn nâng cao năng suất tuyển dụng.
 
 **Để download Ebook, bạn hãy điền vào form bên dưới.** 
 
