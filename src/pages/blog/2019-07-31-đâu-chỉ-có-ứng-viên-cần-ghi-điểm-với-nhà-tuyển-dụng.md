@@ -20,8 +20,20 @@ Với cách nghĩ thông thường, chúng ta đều cho rằng ứng viên cầ
 
 1. HÌNH ẢNH CHUYÊN NGHIỆP
 
-Nếu oanh nghiệp có một nguồn ứng viên tiềm năng lớn trên thị trường lao động,  những ứng viên chất  cũng có không ít những bến đỗ hấp dẫn. Vì vậy, để tạo sự khác biệt, doanh nghiệp cần giới thiệu cho ứng viên biết về công ty, về môi trường, văn hoá, phúc lợi đặc biệt mà chỉ có doanh nghiệp đó mới có. heo Roberson et al. (2005) thì các thông tin tuyển dụng làm nổi bật sự nhận biết về các đặc trưng của tổ chức và sự phù hợp giữa con người – tổ chức ảnh hưởng tốt đến dự định nộp đơn của ứng viên. Vì vậy, xây dựng hình ảnh doanh nghiệp là yếu tố đầu tiên để thu hút tài năng cho doanh nghiệp.
+Nếu oanh nghiệp có một nguồn ứng viên tiềm năng lớn trên thị trường lao động, những ứng viên chất cũng có không ít những bến đỗ hấp dẫn. Vì vậy, để tạo sự khác biệt, doanh nghiệp cần giới thiệu cho ứng viên biết về công ty, về môi trường, văn hoá, phúc lợi đặc biệt mà chỉ có doanh nghiệp đó mới có. heo Roberson et al. (2005) thì các thông tin tuyển dụng làm nổi bật sự nhận biết về các đặc trưng của tổ chức và sự phù hợp giữa con người – tổ chức ảnh hưởng tốt đến dự định nộp đơn của ứng viên. Vì vậy, xây dựng hình ảnh doanh nghiệp là yếu tố đầu tiên để thu hút tài năng cho doanh nghiệp.
 
-2. GIÚP ỨNG VIÊN HIỂU THÊM VỀ VĂN HOÁ DOANH NGHIỆP
+![](/img/screen-shot-2019-07-16-at-9.39.04-pm.png)
 
-Một trong những yếu tố quyết định giúp ứng viên hứng thú tham gia vào quy trình tuyển dụng, mặc dù khắt khe đó là Văn hoá doanh nghiệp. Những hình ảnh về cuộc sống thực tế, những hoạt động nội bộ và các khoảnh khắc đời thường sẽ dễ chạm
+2. GIÚP ỨNG VIÊN HIỂU THÊM VỀ VĂN HOÁ DOANH NGHIỆPMột trong những yếu tố quyết định giúp ứng viên hứng thú tham gia vào quy trình tuyển dụng, mặc dù khắt khe đó là Văn hoá doanh nghiệp. Những hình ảnh về cuộc sống thực tế, những hoạt động nội bộ và các khoảnh khắc đời thường sẽ ảnh hưởng trực tiếp tới mong muốn được tham gia và trở thành một thành viên trong tổ chức đó.
+
+![](/img/culture.jpeg)
+
+3. QUẢN LÝ TỐT DANH SÁCH TUYỂN DỤNG
+
+Hiện tại, nhà tuyển dụng có rất nhiều kênh tiếp cận ứng viên: các trang web tuyển dụng, mạng xã hội, báo chí... Tuy nhiên, với mỗi kênh nhà tuyển dụng sẽ chỉ đăng những thông tin phù hợp với đối tượng trên kênh, vì vậy sẽ khó nhìn tổng quan được quy mô tuyển dụng và quản lý các vị trí đang đăng tuyển. Việc tập hợp các yêu cầu tuyển dụng về một trang sẽ giúp nhân sự giảm thiểu thời gian để vào từng kênh lọc hồ sơ, xử lý thủ công các bước trong quy trình. 
+
+Bên cạnh đó, việc kết nối website tuyển dụng hệ thống xử lý hồ sơ ứng viên (ATS) sẽ còn mang lại nhiều điều tuyệt vời hơn cho đội ngũ nhân sự và doanh nghiệp của bạn. 
+
+Bạn đã chọn được ATS nào chưa, nếu chưa hãy trải nghiệm Cloudjet Potential để nhận thấy sự khác biệt nhé!
+
+http://www.cloudjetpotential.com
