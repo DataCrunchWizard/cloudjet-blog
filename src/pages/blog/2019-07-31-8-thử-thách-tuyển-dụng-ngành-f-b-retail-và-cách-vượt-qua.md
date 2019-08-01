@@ -68,19 +68,19 @@ Nguồn: [1001vieclam](https://1001vieclam.com/blog/nghe-thuat-giu-chan-nhan-tai
 
 **Thiết kế những chương trình khen thưởng để giữ chân những nhân viên giỏi nhất.** Các chương trình khen thưởng được xây dựng một cách thận trọng không chỉ đóng vai trò lớn trong việc làm giảm tỉ lệ nghỉ việc mà còn giúp tăng lợi nhuận của mỗi cửa hàng và toàn bộ doanh nghiệp. Đầu tư kỹ lưỡng cho hạng mục này không bao giờ là một lãng phí mà ngược lại sẽ giúp doanh nghiệp của bạn có một lợi thế cạnh tranh dài hạn trên thị trường lao động. 
 
-## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng yêu**
+## **2. Vẽ ra chân dung ứng viên lý tưởng và cách đánh giá  những kỹ năng trọng yếu** 
 
-Không giống như hầu hết các công việc từ các ngành công nghiệp khác, các công việc bán lẻ không nhất thiết phải nhắm đến một trình độ chuyên môn, nền tảng giáo dục hoặc kinh nghiệm cụ thể. Điều này có nghĩa là những người có trình độ học vấn và trình độ kinh nghiệm khác nhau đều có thể phù . Mặc dù đây là một điều tuyệt vời, nhưng nó khiến việc xác định những ứng viên ù hợp nhất trở nên khó khăn khi bạn không có một chân dung ứng viên lý tưởng để so sánh. 
+Không giống như hầu hết các công việc từ các ngành công nghiệp khác, các công việc bán lẻ không nhất thiết phải nhắm đến một trình độ chuyên môn, nền tảng giáo dục hoặc kinh nghiệm cụ thể. Điều này có nghĩa là những người có trình độ học vấn và trình độ kinh nghiệm khác nhau đều có thể phù hợp . Mặc dù đây là một điều tuyệt vời, nhưng nó khiến việc xác định những ứng viên phù hợp nhất trở nên khó khăn khi bạn không có một chân dung ứng viên lý tưởng để so sánh. 
 
 Ngoài ra, bởi vì nhân viên bán lẻ luôn tương tác với khách hàng (ở các năng lực khác nhau), nên hơn bất cứ điều gì khác, họ cần phải có kỹ năng dịch vụ khách hàng tuyệt vời. Và kỹ năng dịch vụ khách hàng khá khó để đánh giá.
 
-Đáng buồn thay, không có cách nào chắc chắn sẽ giải quyết vấn đề đầu  của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Đơn giản nhất là bạn nên tham khảo các cách đánh giá ứng viên cho từng kỹ năng sau đó thiết lập thang điểm đánh giá chi tiết từng hạng mục để tránh cảm tính và thiếu rõ ràng.
+Đáng buồn thay, không có cách nào chắc chắn sẽ giải quyết vấn đề đau đầu  của thử thách này. Nhưng bạn chắc chắn có thể trở nên tốt hơn trong việc đánh giá các ứng cử viên của bạn cho các kỹ năng mong muốn. Đơn giản nhất là bạn nên tham khảo các cách đánh giá ứng viên cho từng kỹ năng sau đó thiết lập thang điểm đánh giá chi tiết từng hạng mục để tránh cảm tính và thiếu rõ ràng.
 
 ## **3. Thuê những nhà quản lý giỏi**
 
 Nếu có một câu có thể diễn tả chính xác vấn đề tuyển dụng, thì nó là câu này:
 
-**"Nhân viên không  công ty, họ rời khỏi nhà quản lý"**
+**"Nhân viên không nghĩ việc vì công ty, họ rời khỏi nhà quản lý"**
 
 Bạn sẽ ngạc nhiên khi biết rằng một cuộc khảo sát với hơn một triệu nhân viên đã xác định rằng lý do số 1 khiến mọi người nghỉ việc là vì một ông chủ tồi hoặc người quản lý trực tiếp.
 
@@ -90,7 +90,7 @@ Nhưng có một vài cách để khắc phục thách thức tuyển dụng "qu
 
 **Thuê quản lý cửa hàng tốt hơn.** Khi nói đến việc thuê quản lý cửa hàng, rất nhiều doanh nghiệp bán lẻ chỉ tìm kiếm các kỹ năng tổ chức. Mặc dù các kỹ năng tổ chức là điều kiện tiên quyết để ứng viên trở nên xuất sắc trong vai trò quản lý, nhưng bấy nhiêu vẫn chưa đủ (vì các nhà quản lý cũng cần phải giỏi trong việc quản lý con người). Vì vậy, khi tuyển dụng các nhà quản lý, hãy chú ý một số các kỹ năng như: EQ, khiếu hài hước, khả năng lắng nghe, xử lý vấn đề.... Chúng tôi sẽ chia sẻ thêm về chủ đề này trong loạt bài sau.
 
-**Đào tạo các nhà quản lý để trở nên tốt hơn trong công việc của họ.** Quản lý chi tiết, phê bình quá mức, quản lý kém là những đặc điểm chung của các nhà quản lý tồi. Vì vậy, hãy xem liệu bạn có thể đưa ra các hoạt  ngày đào tạo, khóa học trực tuyến hoặc hội thảo để cải thiện kỹ năng của người quản lý cửa hàng của bạn, để họ có thể làm tốt hơn trong công việc.
+**Đào tạo các nhà quản lý để trở nên tốt hơn trong công việc của họ.** Quản lý chi tiết, phê bình quá mức, quản lý kém là những đặc điểm chung của các nhà quản lý tồi. Vì vậy, hãy xem liệu bạn có thể đưa ra các hoạt động đào tạo, khóa học trực tuyến hoặc hội thảo để cải thiện kỹ năng của người quản lý cửa hàng của bạn, để họ có thể làm tốt hơn trong công việc.
 
 **Biến những nhà quản lý của bạn thành "Người thực thi" (Doers).** Nhân viên thường nhận định là quản lý chẳng làm gì ngoài quản lý. Họ không trực tiếp ở khu vực bán hàng hay tham gia công tác hậu cần. Vì vậy, hãy tìm hiểu xem bạn có thể giúp người quản lý của mình thực sự tham gia vào công việc không (thay vì chỉ quản lý). Điều này rất quan trọng vì khi nhân viên bán lẻ của bạn nhìn thấy một người quản lý rất tích cực, họ cảm thấy được truyền cảm hứng để làm tốt nhất công việc của họ!
 
@@ -102,11 +102,11 @@ Tính thời vụ là phổ biến trong các doanh nghiệp bán lẻ. Một s�
 
 Tính thời vụ này đặt ra một thách thức tuyển dụng lớn đối với các cửa hàng bán lẻ vì nó cần một loại tuyển dụng chuyên biệt gọi là "Tuyển dụng số lượng lớn". Điều  về cơ bản có nghĩa là thuê nhiều nhân viên trong một khoảng thời gian ngắn.
 
-Đôi khi, thách thức tuyển dụng số  lớn này trở nên tồi tệ hơn nếu các nhân viên bán lẻ thông thường (người không quen với việc tăng khối lượng ông việc) ối cùng đã bỏ việc vì điều đó. 
+Đôi khi, thách thức tuyển dụng số lượng lớn này trở nên tồi tệ hơn nếu các nhân viên bán lẻ thông thường (người không quen với việc tăng khối lượng ông việc) cuối cùng đã bỏ việc vì điều đó. 
 
 Ngoài ra, do hoạt động kinh doanh của tất cả các cửa hàng tăng lên trong thời gian này, sự cạnh tranh về tài năng địa phương trở nên siêu cao trong thời gian này.
 
-Mặc dù không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng không hẳn là không thể. Một vài tuyệt chiêu mà bạn có thể thực hiện để cải thiện tình hình như có kế hoạch tuyển dụng theo mùa, viết những mẫu quảng cáo thu hút nhân sự thời vụ, hắm đúng mục tiêu, bổ sung công cụ,..
+Mặc dù không dễ dàng vượt qua thử thách tuyển dụng bán lẻ này, nhưng không hẳn là không thể. Một vài tuyệt chiêu mà bạn có thể thực hiện để cải thiện tình hình như có kế hoạch tuyển dụng theo mùa, viết những mẫu quảng cáo thu hút nhân sự thời vụ, nhắm đúng mục tiêu, bổ sung công cụ,..
 
 ## **5. Cạnh tranh với những doanh nghiệp/cửa hàng tại địa phương**
 
@@ -118,7 +118,7 @@ Trừ khi bạn tìm cách tích cực xây dựng và thu hút một cơ sở t
 
 Dưới đây là một số cách để giành được tài năng địa phương tốt nhất cho cửa hàng bán lẻ của bạn.
 
-**Hãy tiếp tục xây dựng đội ngũ tài năng của bạn.** Sử dụng các chiến thuật như đăng ký nhận thông báo việc làm (tất nhiên là có sự cho phép!), ổ chức các sự kiện tuyển dụng địa phương và mạng xã hội để xây dựng đội ngũ tài năng của bạn. Theo dõi sự phát triển của nhóm tài năng của bạn và chất lượng của các ứng cử viên được thêm vào .
+**Hãy tiếp tục xây dựng đội ngũ tài năng của bạn.** Sử dụng các chiến thuật như đăng ký nhận thông báo việc làm, tổ chức các sự kiện tuyển dụng địa phương và mạng xã hội để xây dựng đội ngũ tài năng của bạn. Theo dõi sự phát triển của nhóm tài năng của bạn và chất lượng của các ứng cử viên được thêm vào .
 
 **Tương tác  nhóm tài năng của bạn.** Nhóm tài năng địa phương của bạn sẽ chỉ hữu ích với bạn NẾU ứng viên cảm thấy gắn bó và nhiệt tình khi làm việc với bạn. Sử dụng các kênh như email và SMS để giữ liên lạc với các tài nguyên tiềm năng trong nhóm. Thường xuyên nói với họ về các đặc quyền (như giảm giá hàng hóa của cửa hàng và hơn thế nữa) mà nhân viên của bạn nhận được.
 
@@ -132,18 +132,18 @@ Bởi vì hầu hết các tổ chức bán lẻ lớn đều có nhiều cửa 
 
 Thuê cho nhiều cửa hàng là một thách thức vì đa phần các đơn vị  (thường là nhượng quyền thuộc sở hữu của những người khác nhau) không  một quy trình tuyển dụng tập trung.
 
-hiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) ỗi cửa hàng tự xử lý việc thuê nhân viên êng của mình. Bây giờ, vì điều đó không khả thi đối với mọi cửa hàng bán lẻ của một công ty có nguồn nhân sự tại chỗ, việc tuyển dụng này thường được thực hiện bởi người quản lý cửa hàng, người có thể không xuất sắc như một nhà tuyển dụng.
+Thiếu một quy trình tuyển dụng trung tâm có nghĩa là (hầu hết) chuỗi cửa hàng tự xử lý việc thuê nhân viên riêng của mình. Bây giờ, vì điều đó không khả thi đối với mọi cửa hàng bán lẻ của một công ty có nguồn nhân sự tại chỗ, việc tuyển dụng này thường được thực hiện bởi người quản lý cửa hàng, người có thể không xuất sắc như một nhà tuyển dụng.
 
 Dưới đây là ba cách hữu ích để giải quyết thách thức tuyển dụng bán lẻ này:
 
-**Cố gắng thiết lập một quy trình tuyển dụng có cấu trúc**. Bây giờ, không phải lúc nào cũng có thể thiết lập một quy trình tuyển dụng tập trung trên một chuỗi các cửa hàng, nhưng bạn có thể cố gắng cung cấp cho nó cấu trúc nhất định. Bắt đầu bằng cách sử dụng một ngăn xếp công nghệ tập trung hỗ trợ tuyển dụng nhiều địa điểm. Chỉ cần sử dụng cùng một nền tảng đánh giá ATS hoặc / và trước khi tuyển dụng, bạn sẽ có thể chuẩn hóa một phần lớn trong quy trình tuyển dụng của mình. Ngoài ra, hãy yêu cầu nhà tuyển dụng nội bộ của bạn tạo ra một vở kịch tuyển dụng và phân phối nó cho tất cả các cửa hàng của bạn.
+**Cố gắng thiết lập một quy trình tuyển dụng có cấu trúc**. Bây giờ, không phải lúc nào cũng có thể thiết lập một quy trình tuyển dụng tập trung trên một chuỗi các cửa hàng, nhưng bạn có thể cố gắng cung cấp cho nó cấu trúc nhất định. Bắt đầu bằng cách sử dụng một ngăn xếp công nghệ tập trung hỗ trợ tuyển dụng nhiều địa điểm. Chỉ cần sử dụng cùng một nền tảng tuyển dụng ATS hoặc / và trước khi tuyển dụng, bạn sẽ có thể chuẩn hóa một phần lớn trong quy trình tuyển dụng của mình. Ngoài ra, hãy yêu cầu nhà tuyển dụng nội bộ của bạn tạo ra một vở kịch tuyển dụng và phân phối nó cho tất cả các cửa hàng của bạn.
 
 **Cung cấp đào tạo cho người quản lý cửa hàng của bạn.** Để cải thiện kỹ năng tuyển dụng quản lý cửa hàng của bạn, hãy yêu cầu họ thực hiện một vài khóa tuyển dụng. Nếu có thể, hãy sắp xếp để họ tham dự các hội thảo tuyển dụng tập trung vào tuyển dụng bán lẻ. Hoặc ít nhất, hãy cho họ một vài cuốn sách tuyệt vời về việc tuyển dụng.
 
-**Hãy xây dựng kênh hỗ trợ tuyển  .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung chuên gia tư vấn tuyển dụng hấp dẫn để giúp họ tại chỗ nhằm cần cải thiện chất lượng tuyển dụng và  hiệu quả về chi phí.
+**Hãy xây dựng kênh hỗ trợ tuyển dụng  .** Nếu bạn thấy rằng người quản lý cửa hàng của bạn thường xuyên phải vật lộn với tuyển dụng, hãy xem xét các bổ sung chuyên gia tư vấn tuyển dụng hấp dẫn để giúp họ nhằm cần cải thiện chất lượng tuyển dụng và  hiệu quả về chi phí.
 
 Như bạn có thể nhận ra, một số thách thức tuyển dụng cơ  mà bạn phải đối mặt đã có cách khắc phục nhanh chóng. Ví dụ, sắp xếp một vài hội thảo cho người quản lý cửa hàng của bạn có thể giúp họ trở thành người quản lý tốt hơn.
 
-Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng thì nghiêm trọng hơn và  có bất kỳ giải pháp tức thời nào.
+Tuy nhiên, những thách thức tuyển dụng như chuẩn bị cho tính thời vụ và tuyển dụng cho sự đa dạng thì nghiêm trọng hơn và có bất kỳ giải pháp tức thời nào.
 
-Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng bán lẻ có các yếu tố trong những điều này và nhiều hơn thế . Loạt bài tiếp theo sẽ truyền thêm cảm hứng cho bạn, hãy chờ nhé!
+Để giải quyết những thách thức tuyển dụng bán lẻ cấp cao này, bạn cần nhiều hơn một loạt các chiến thuật và mẹo tuyển dụng. Những gì bạn cần là một chiến lược tuyển dụng có các yếu tố trong những điều này và nhiều hơn thế.
