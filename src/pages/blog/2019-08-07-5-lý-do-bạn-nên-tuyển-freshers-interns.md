@@ -63,6 +63,8 @@ Hãy nghĩ đến chương trình Management Trainee (Quản trị viên tập s
 1. **Xây dựng cổng tuyển dụng riêng dành cho freshers và interns của doanh nghiệp**. Đây là nơi để đăng tuyển, tiếp nhận hồ sơ của các ứng viên một cách dễ dàng. 
 2. **Cloudjet Team** sẽ giúp bạn thực hiện các mini campaign để thu hút các ứng viên tiềm năng thông qua các hoạt động như:
 
+
+
 * Đăng tuyển tại các forum, group của các trường đại học phù hợp.
 * Phối hợp với các trường để thông báo về các chương trình thực tập sinh hấp dẫn.
 * Hỗ trợ đội ngũ nội bộ (internal team) của bạn trong việc sử dụng hệ thống ATS một cách tối ưu, hiệu quả nhằm xử lý khối lượng lớn hồ sơ ứng viên và tìm được những ứng viên phù hợp nhất.
