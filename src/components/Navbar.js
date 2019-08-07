@@ -77,16 +77,16 @@ const Navbar = class extends React.Component {
 
             </div>
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://fb.me/cloudjetsolutions"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src="https://i.imgur.com/w81SIJZ.png" alt="Facebook" />
-                </span>
-              </a>
+              {/*<a*/}
+              {/*  className="navbar-item"*/}
+              {/*  href="https://fb.me/cloudjetsolutions"*/}
+              {/*  target="_blank"*/}
+              {/*  rel="noopener noreferrer"*/}
+              {/*>*/}
+              {/*  <span className="icon">*/}
+              {/*    <img src="https://i.imgur.com/w81SIJZ.png" alt="Facebook" />*/}
+              {/*  </span>*/}
+              {/*</a>*/}
             </div>
           </div>
         </div>
